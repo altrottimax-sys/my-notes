@@ -1,4 +1,11 @@
- This session the girls were just exploring the world almost no combat was had. 
+---
+title: Session 7
+draft: true
+tags:
+  -
+---
+ 
+This session the girls were just exploring the world almost no combat was had. 
 
 The girls went back to phandalin and tried to find out information and lore about all of their stories. they made contact with the harpers.
 

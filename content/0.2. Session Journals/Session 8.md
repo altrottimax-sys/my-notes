@@ -1,3 +1,10 @@
+---
+title: Session 8
+draft: true
+tags:
+  -
+---
+ 
 Heading to Neverwinter, trying to keep hidden,  find Densaang,  find George Miller, and a cure for the Dragonkin Curse.
 
 Focus on Pacing and "Show don't tell"

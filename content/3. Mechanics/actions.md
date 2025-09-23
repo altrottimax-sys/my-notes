@@ -10,7 +10,6 @@ aliases: ["Actions"]
 # Actions
 
 ## Activate an Item
-_Source: Dungeon Master's Guide p. 141. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
@@ -39,27 +38,24 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 Some magic items have charges that you expend to activate its properties. The number of charges an item has remaining is revealed when an identify spell is cast on the item, or when a creature attunes to the item. Additionally, when an item regains charges, the creature attuned to that item learns how many charges it regained.
 
 ## Attack
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
 The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
-With this action, you make one melee or ranged attack. See the ""Making an Attack"" section for the rules that govern attacks.
+With this action, you make one melee or ranged attack. See the "Making an Attack" section for the rules that govern attacks.
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
 See also: [Disarm](/3-Mechanics/CLI/actions.md#Disarm), [Grapple](/3-Mechanics/CLI/actions.md#Grapple), [Mark](/3-Mechanics/CLI/actions.md#Mark), [Shove](/3-Mechanics/CLI/actions.md#Shove), [Shove Aside](/3-Mechanics/CLI/actions.md#Shove%20Aside), [Two-Weapon Fighting](/3-Mechanics/CLI/actions.md#Two-Weapon%20Fighting)
 
 ## Cast a Spell
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: Varies
 
 Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell. See "chapter 10" for the rules on spellcasting.
 
 ## Climb onto a Bigger Creature
-_Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
 
@@ -72,7 +68,6 @@ The smaller creature can move around within the larger creature's space, treatin
 This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
 
 ## Dash
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
@@ -80,75 +75,53 @@ When you take the Dash action, you gain extra movement for the current turn. The
 
 Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
 
-## Disarm
-_Source: Dungeon Master's Guide p. 271_
-
-- **Duration**: 1 action
-
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
-
-The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
-
-See also: [Attack](/3-Mechanics/CLI/actions.md#Attack)
-
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
-
 ## Disengage
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
 If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
 
 ## Dodge
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
 When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
 ## Don or Doff a Shield
-_Source: Player's Handbook p. 146. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- **Duration**: 1 action
+- **Duration**: 1 reaction
 
 The time it takes to don or doff armor [depends on the armor's category](/3-Mechanics/CLI/tables/getting-into-and-out-of-armor-donning-and-doffing-armor.md). A [shield](/3-Mechanics/CLI/items/shield.md) can be donned or doffed as an action.
 
 ## End Concentration
-_Source: Player's Handbook p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: Free
 
 If a spell must be maintained with [concentration](/3-Mechanics/CLI/conditions.md#Concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](/3-Mechanics/CLI/conditions.md#Concentration) at any time (no action required).
 
 ## Escape a Grapple
-_Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- **Duration**: 1 action
+- **Duration**: 1 action, 1 reaction
 
 A [grappled](/3-Mechanics/CLI/conditions.md#Grappled) creature can use its action to escape. To do so, it must succeed on a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check contested by your Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
-See also: [Grapple](/3-Mechanics/CLI/actions.md#Grapple)
-
 ## Grapple
-_Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- **Duration**: 1 action
+- **Duration**: 1 action, 1 bonus
 
-When you want to grab a creature or wrestle with it, you can use the [Attack](/3-Mechanics/CLI/actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
+When you want to grab a creature or wrestle with it, you can use the [Attack](/3-Mechanics/CLI/actions.md#Attack) action to make a special melee attack, a grapple, which costs an additional bonus action. If you're able to make multiple attacks with the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
 
-Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you subject the target to the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+You try to seize the target by making a grapple check, a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you subject the target to the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required). No reactions can be taken during a grapple.
 
 ### Moving a Grappled Target
 
-When you move, you can drag or carry the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+When you move, you can drag or carry the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) creature with you, but your speed is halved.
 
 See also: [Escape a Grapple](/3-Mechanics/CLI/actions.md#Escape%20a%20Grapple)
 
 ## Healing Surge
-_Source: Dungeon Master's Guide p. 266_
 
-- **Duration**: 1 action
+- **Duration**: 1 bonus action, can only be taken when losing the unconscious condition.
 
 As an action, a character can use a healing surge and spend up to half his or her Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll.
 
@@ -157,7 +130,6 @@ A character who uses a healing surge can't do so again until he or she finishes 
 This action is an optional addition to the game, from the optional/variant rule [Healing](/3-Mechanics/CLI/variant-rules/healing.md).
 
 ## Help
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
@@ -166,14 +138,12 @@ You can lend your aid to another creature in the completion of a task. When you 
 Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 ## Hide
-_Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
 When you take the Hide action, you make a Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check in an attempt to hide, following the rules in "chapter 7 " for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
 
 ## Identify a Spell
-_Source: Xanathar's Guide to Everything p. 85_
 
 - **Duration**: 1 reaction, 1 action
 
@@ -183,10 +153,7 @@ If the character perceived the casting, the spell's effect, or both, the charact
 
 This Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
-This action is an optional addition to the game, from the optional/variant rule [Spellcasting](/3-Mechanics/CLI/variant-rules/spellcasting-xge.md).
-
 ## Improvising an Action
-_Source: Player's Handbook p. 193. Available in the Basic Rules (2014)_
 
 - **Duration**: Varies
 
@@ -194,19 +161,7 @@ Your character can do things not covered by the actions in this chapter, such as
 
 When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-## Mark
-_Source: Dungeon Master's Guide p. 271_
-
-This option makes it easier for melee combatants to harry each other with opportunity attacks.
-
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or the [shocking grasp](/3-Mechanics/CLI/spells/shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
-
-See also: [Attack](/3-Mechanics/CLI/actions.md#Attack)
-
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
-
 ## Opportunity Attack
-_Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 reaction
 
@@ -217,7 +172,6 @@ You can make an opportunity attack when a hostile creature that you can see move
 You can avoid provoking an opportunity attack by taking the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ## Other Activity
-_Source: Player's Handbook p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: Varies
 
@@ -256,23 +210,12 @@ The DM might require you to use an action for any of these activities when it ne
 > - turn a key in a lock  
 > - tap the floor with a 10-foot pole  
 > - hand an item to another character  
-^interacting-with-objects-around-you
 
-## Overrun
-_Source: Dungeon Master's Guide p. 272_
 
-- **Duration**: 1 action, 1 bonus
-
-When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the hostile creature's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
-
-See also: [Tumble](/3-Mechanics/CLI/actions.md#Tumble)
-
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
 
 ## Ready
-_Source: Player's Handbook p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- **Duration**: 1 action
+- **Duration**: 1 action, 1 reaction
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
 
@@ -285,14 +228,12 @@ When you ready a spell, you cast it as normal but hold its energy, which you rel
 You have until the start of your next turn to use a readied action.
 
 ## Search
-_Source: Player's Handbook p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- **Duration**: 1 action
+- **Duration**: 1 bonus action
 
 When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check or an Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check.
 
 ## Shove
-_Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
@@ -300,41 +241,17 @@ Using the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, you can make a sp
 
 The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you either knock the target [prone](/3-Mechanics/CLI/conditions.md#Prone) or push it 5 feet away from you.
 
-See also: [Attack](/3-Mechanics/CLI/actions.md#Attack), [Shove Aside](/3-Mechanics/CLI/actions.md#Shove%20Aside)
-
-## Shove Aside
-_Source: Dungeon Master's Guide p. 272_
-
-- **Duration**: 1 action
-
-With this option, a creature uses the special [shove](/3-Mechanics/CLI/actions.md#Shove) attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
-
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
-
 ## Stabilize a Creature
-_Source: Player's Handbook p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
 You can use your action to administer first aid to an [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check.
 
-A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `1d4` hours.
-
-## Tumble
-_Source: Dungeon Master's Guide p. 272_
-
-- **Duration**: 1 action, 1 bonus
-
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check contested by the hostile creature's Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
-
-See also: [Overrun](/3-Mechanics/CLI/actions.md#Overrun)
-
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
+When a creature is stabilised it can attempt to use the Healing Surge action, but will lose use of their action point whether or not they attempt to use this action.
 
 ## Two-Weapon Fighting
-_Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- **Duration**: 1 bonus
+- **Duration**: 1 bonus action
 
 When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
@@ -343,14 +260,12 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 See also: [Attack](/3-Mechanics/CLI/actions.md#Attack)
 
 ## Use an Object
-_Source: Player's Handbook p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
 ## Waking Someone
-_Source: Xanathar's Guide to Everything p. 77_
 
 - **Duration**: 1 action
 

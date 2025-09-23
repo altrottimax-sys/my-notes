@@ -1,3 +1,10 @@
+---
+title: Petitearena Backstory
+draft: true
+tags:
+  -
+---
+ 
 Petitearena was born and raised in a quiet village, nestled between ancient woods and towering mountains. From a young age, she demonstrated a curiosity for the world around her. While other children played simple games, Petiterena immersed herself in dusty tomes at the local library, delighting in tales of arcane mysteries and celestial enigmas. Her studies took her to the elegant sorcerous city of [[Silverymoon]]. There she took her first steps to becoming a fully-fledged wizard. 
 
 In the Grand Library of the Spellguard, Petitearena discovered an old tome, bound in a golden skin and inked with ominous symbols, a most intriguing book. When she opened this tome her mind could barely comprehend the vile shifting symbols on the page. As her mind burgeoned with untold secrets she was barely able to close the tome. She grew to be obsessed with this tome and also with unlocking its greatest potential… her greatest potential.

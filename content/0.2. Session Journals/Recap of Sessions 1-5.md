@@ -1,4 +1,9 @@
-Read at the beginning of [[Session 6]]
+---
+title: "Sessions Recap"
+draft: false
+tags:
+  -
+---
 
 Our group of adventurers started off by meeting in the Stonehill Inn in Phandalin, where they were promptly thrown out for causing a stir. These adventurers decided to move past their differences and form a group of their own and start completing the work assigned to the town notice board. 
 
@@ -18,5 +23,6 @@ The girls then found themselves at the Loggers camp, which was suspiciously devo
 
 When the girls arrived back in Phandalin, they see it is surrounded in new camps of refugees and the displaced. Phandalin seems to be the last refuge for the area, and is teetering on the edge of destruction. Will the girls be able to save it? To be continued...
 
+Continued in [[Session 6]]
 ---
 

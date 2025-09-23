@@ -1,3 +1,10 @@
+---
+title: Session 6
+draft: true
+tags:
+  -
+---
+ 
 The girls will arrive in Phandalin and view the destruction that Cryovain has wrought
 
 In the hustle and bustle The Magistrate will bump into Nikita, this is his 'first' interaction with her. maybe something about "apologies, miss? Ahhh Cuntita, well I must be off quickly, you know how you cannot leave employers waiting. "

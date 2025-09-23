@@ -10,7 +10,6 @@ aliases: ["Diseases"]
 # Diseases
 
 ## Blinding Sickness
-_Source: Player's Handbook p. 227_
 
 Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded](/3-Mechanics/CLI/conditions.md#Blinded).
 
@@ -18,7 +17,6 @@ Pain grips the creature's mind, and its eyes turn milky white. The creature has 
 > This disease can be inflicted with the [contagion](/3-Mechanics/CLI/spells/contagion.md) spell.
 
 ## Cackle Fever
-_Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
 
@@ -31,7 +29,6 @@ On a failed save, the creature takes 5 (`1d10`) psychic damage and becomes [inca
 At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by `1d6`. When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of [indefinite madness](/3-Mechanics/CLI/variant-rules/madness.md).
 
 ## Filth Fever
-_Source: Player's Handbook p. 227_
 
 A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
 
@@ -39,7 +36,6 @@ A raging fever sweeps through the creature's body. The creature has disadvantage
 > This disease can be inflicted with the [contagion](/3-Mechanics/CLI/spells/contagion.md) spell.
 
 ## Flesh Rot
-_Source: Player's Handbook p. 227_
 
 The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
@@ -47,7 +43,6 @@ The creature's flesh decays. The creature has disadvantage on Charisma checks an
 > This disease can be inflicted with the [contagion](/3-Mechanics/CLI/spells/contagion.md) spell.
 
 ## Mindfire
-_Source: Player's Handbook p. 227_
 
 The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion](/3-Mechanics/CLI/spells/confusion.md) spell during combat.
 
@@ -55,7 +50,6 @@ The creature's mind becomes feverish. The creature has disadvantage on Intellige
 > This disease can be inflicted with the [contagion](/3-Mechanics/CLI/spells/contagion.md) spell.
 
 ## Seizure
-_Source: Player's Handbook p. 227_
 
 The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
@@ -63,7 +57,6 @@ The creature is overcome with shaking. The creature has disadvantage on Dexterit
 > This disease can be inflicted with the [contagion](/3-Mechanics/CLI/spells/contagion.md) spell.
 
 ## Sewer Plague
-_Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as rats and otyughs.
 
@@ -76,7 +69,6 @@ At the end of each long rest, an infected creature must make a DC 11 Constitutio
 On a successful save, the character's [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) level decreases by one level. If a successful saving throw reduces the infected creature's level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) below 1, the creature recovers from the disease.
 
 ## Sight Rot
-_Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 
@@ -85,7 +77,6 @@ A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an [herbalism kit](/3-Mechanics/CLI/items/herbalism-kit.md) can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
 ## Slimy Doom
-_Source: Player's Handbook p. 227_
 
 The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of its next turn.
 
@@ -93,7 +84,6 @@ The creature begins to bleed uncontrollably. The creature has disadvantage on Co
 > This disease can be inflicted with the [contagion](/3-Mechanics/CLI/spells/contagion.md) spell.
 
 ## The Gnawing Plague
-_Source: Van Richten's Guide to Ravenloft p. 153_
 
 The Gnawing Plague, also known as "the Gnaws," is known in every corner of Richemulot.
 

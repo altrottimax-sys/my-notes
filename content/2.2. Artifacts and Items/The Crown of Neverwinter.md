@@ -1,11 +1,11 @@
 ---
-title: "The Crown of Neverwinter"
-draft: false
+title: The Crown of Neverwinter
+draft: true
 tags:
   -
 ---
- 
-The _Crown of Neverwinter_ was a warrior king's crown made out of mithral inlaid with four blue sapphires.
+
+The _Crown of Neverwinter_ was a warrior king's crown made out of mithril inlaid with four blue sapphires.
 
 The _Crown of Neverwinter_ had the property to protect its wearer from extreme temperatures of cold and heat, and could magically enhance the majesty of the wearer, giving its wearer an advantage when talking with or intimidating someone. The _Crown_ could also emit a burst of cold and heat to damage the wearer's enemies.
 

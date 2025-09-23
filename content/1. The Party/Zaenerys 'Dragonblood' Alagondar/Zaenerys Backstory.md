@@ -1,6 +1,3 @@
-[[Zaenerys]]
-[[House Alagondar]]
-
 Zaenerys was born to the Alagondar Dynasty rulers of Neverwinter City, a highborn family that was ashamed of their draconic ancestry. Her brother was 10 years older than her, and Zaenerys led a protected life as the second heir, leaving her to spend most of her time alone in a giant castle, making friends with the bugs and animals that her family owned.  She was sweet by nature and spent a lot of time with her father who taught her how to rule, listen to the people's needs, and make the right choices. He also taught her their family’s history and language, telling her stories about how they are from the blood of a dragon, and she was fascinated. Her mother was a wood elf from the Neverwinter forests, and saw beauty in dragons but knew there was a darkness within them.
 
 She didn’t care too much about her draconic secret as she didn’t feel a connection with them, having a human like appearance with long silver hair with fuck ass . She was also a vegetarian cause she was besties w a baby cow and duckling

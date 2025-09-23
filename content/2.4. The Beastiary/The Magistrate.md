@@ -1,6 +1,6 @@
 ---
-title: "The Magistrate"
-draft: false
+title: The Magistrate
+draft: true
 tags:
   -
 ---

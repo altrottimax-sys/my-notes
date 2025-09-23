@@ -1,3 +1,9 @@
+---
+title: Ideas
+draft: true
+tags:
+  -
+---
 prestige classes; mechanical classes that provide extra flavour
 https://www.realmshelps.net/charbuild/classes/prestige/realms/zhentspy.shtml
 https://www.realmshelps.net/charbuild/classes/prestige/realms/spellguard.shtml

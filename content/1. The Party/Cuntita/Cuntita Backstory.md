@@ -1,4 +1,10 @@
-#Cuntita
+---
+title: Cuntita Backstory
+draft: true
+tags:
+  -
+---
+ 
 Cuntita the Criminal was born into a world that sang of betrayal and darkness. Raised in the back alleys of [[Baldur's Gate]], a bustling port city notorious for its rampant corruption, she quickly learned that might made right. Her parents were lowly dockworkers who served as pawns in a larger game played by smugglers and pirates. 
 
 When Cuntita was just ten years old, her family fell victim to an elaborate ploy orchestrated by one such pirate crew: they were framed for stealing cargo meant for the ruling Council of Four. In one brutal stroke, both of her parents were imprisoned, leaving Cuntita to fend for herself on the unforgiving streets.
