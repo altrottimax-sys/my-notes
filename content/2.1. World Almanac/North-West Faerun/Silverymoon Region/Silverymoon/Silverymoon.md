@@ -1,1 +1,0 @@
-[[Grand Library of The Spellguard]]
