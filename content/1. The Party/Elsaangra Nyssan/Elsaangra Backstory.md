@@ -1,10 +1,10 @@
 ---
 title: Elsaangra Backstory
-draft: true
+draft: false
 tags:
   -
 ---
-Elsaangra is a high elf from the small town of [[Saang]], and was raised in the [[Temple of Saang]]. It is a place that values, knowledge and perfection. Elsaangra values the elegance of elven culture, however also finds herself drawn to the mysteries beyond her culture. In her early years, she trained as an acolyte of [[Sehanine Moonbow]] and learned the ways of the divine and secrets of the cosmos. 
+Elsaangra is a high elf from the small town of [[Saang, Town of Shimmer]], and was raised in the [[Grand Monastery of Saang]]. It is a place that values, knowledge and perfection. Elsaangra values the elegance of elven culture, however also finds herself drawn to the mysteries beyond her culture. In her early years, she trained as an acolyte of [[Sehanine Moonbow]] and learned the ways of the divine and secrets of the cosmos. 
 
 However, the more she learns, the more she feels constrained by the rigid doctrines of her temple. Elsaangra begins to question the strict moral code imposed by her superiors and seeks a deeper understanding of life and the balance between good and bad. 
 
