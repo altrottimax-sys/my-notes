@@ -5,9 +5,6 @@ tags:
   -
 ---
  
-Race: Dragonborn/Human
-Background: Noble
-Class and Level: 5 Ranger Drakewarden
 > [!infobox|left]+
 > # Zaenaerys
 > ![[Zaenaerys.jpeg|cover hsmall]]
