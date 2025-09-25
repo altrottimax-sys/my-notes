@@ -1,6 +1,6 @@
 ---
 title: Zaenerys
-draft: true
+draft: false
 tags:
   -
 ---
