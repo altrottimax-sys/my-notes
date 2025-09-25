@@ -23,7 +23,7 @@ PlayerKnownLanguages:
 faction_standing:
   "Faction Name 1": 1
   "Faction Name 3": 2
-  "Faction Name 3": 3
+  Faction Name 3": 3
 ---
 
 <%*

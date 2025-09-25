@@ -1,8 +1,10 @@
 ---
-title: Dobby
+title: Doblother Yrric
 draft: true
 tags:
-  -
+  - 
+aliases:
+  - Dobby
 ---
  
 Race: Sun Elf
