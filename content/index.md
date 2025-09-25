@@ -4,4 +4,4 @@ draft: false
 tags:
 
 ---
-Welcome Girlies!
+Welcome Girlies to the Tyranny of Dragon's Campaign Wiki!

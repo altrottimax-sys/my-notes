@@ -4,10 +4,16 @@ draft: true
 tags:
   -
 ---
- 
-The girls will arrive in Phandalin and view the destruction that Cryovain has wrought
 
-In the hustle and bustle The Magistrate will bump into Nikita, this is his 'first' interaction with her. maybe something about "apologies, miss? Ahhh Cuntita, well I must be off quickly, you know how you cannot leave employers waiting. "
+ When the party arrived back in Phandalin, they see it is surrounded in new camps of refugees and the displaced. Phandalin seems to be the last refuge for the area, and is teetering on the edge of destruction. Cryovain had attacked, destroying the house of one Goliath female, killing her family.
+
+Elsaangra "investigated" the woman's house and was only met with the bodies of the woman's family.
+
+The party left to go rest, recover, and resupply. Along the way, in the hustle and bustle of the Phandalin Town Square, Cuntita had bumped into what seemed like a Magistrate of the Lord's Alliances. It seemed as if he knew of her, but his crypticness and vague way of speech made it unclear.
+
+The party heard about the Tower of Storms, and moved towards the coast to investigate. Arriving nearby they spied over the cliff down to the beach and saw a giant crab. This giant crab spoke to them and offered a reward if the ghost of his captain friend could be laid to rest. 
+
+Moving forward they walked across a narrow bridge to the lighthouse and discovered a corpse, heart still beating. It was an Anchorite of Talos. 
 
 in the town they will hear about the rumours of the tower of storms, but I hope they will head to the dragon barrow
 

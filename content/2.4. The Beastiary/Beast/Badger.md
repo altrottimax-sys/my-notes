@@ -1,5 +1,5 @@
 ---
-title: "Badger"
+title: Badger
 draft: false
 tags:
   -
