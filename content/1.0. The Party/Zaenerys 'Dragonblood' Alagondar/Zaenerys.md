@@ -14,14 +14,26 @@ Passives
 	Passive Perception: 16
 	Passive Insight: 13
 
-| Ability      | Skills                          | Modifiers                                                                          |     |
-| ------------ | ------------------------------- | ---------------------------------------------------------------------------------- | --- |
-| **Strength** | **Saving Throws**               | Smash down a door, move a boulder, use a spike to wedge a door shut                |     |
-| Dexterity    | Agility, reflexes, and balance  | Sneak past a guard, walk along a narrow ledge, wriggle free from chains            |     |
-| Constitution | Stamina and health              | Endure a marathon, grasp hot metal without flinching, win a drinking contest       |     |
-| Intelligence | Memory and reason               | Recall a bit of lore, recognize a clue's significance, decode an encrypted message |     |
-| Wisdom       | Perceptiveness and willpower    | Spot a hidden creature, sense that someone is lying                                |     |
-| Charisma     | Social influence and confidence | Persuade a creature to do something, cow a crowd, lie to someone convincingly      |     |
+| **Strength**            | **Dexterity**           | Constitution        | Intelligence        | Wisdom              | Charisma            |              |
+| ----------------------- | ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------ |
+| <center>10</center>     | <center>16</center>     | <center>14</center> | <center>8</center>  | <center>16</center> | <center>11</center> | Stats        |
+| <center>+0</center>     | <center>+3</center>     | <center>+2</center> | <center>-1</center> | <center>+3</center> | <center>+0</center> | Modifier     |
+| <center>**+3**</center> | <center>**+6**</center> | <center>+2</center> | <center>-1</center> | <center>+3</center> | <center>+0</center> | Saving Throw |
+
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 Statistics
 	**(+0) Strength: 10**

@@ -5,4 +5,4 @@ tags:
   -
 ---
  
-Adopted Tiefling Daughter of [[Dagult Neverember]]
+Adopted Tiefling Daughter of [[Lord Dagult Neverember]]
