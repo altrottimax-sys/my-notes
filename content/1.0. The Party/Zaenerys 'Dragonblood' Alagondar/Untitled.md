@@ -1,6 +1,6 @@
 ---
 alias: <% tp.file.title %>
-tags: Entity/Player-Character, Multiverse/D&D
+tags:
 cssclass: hcl, table, t-c, readable
 hp:
 ac:
