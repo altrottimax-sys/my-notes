@@ -12,7 +12,17 @@ tags:
 | Class       | Drakewarden Ranger |
 | Level       | 5                  |
 | Proficiency | +3                 |
-<img src="/Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli">
+<img src="/content/Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli">
+> [!infobox|left]+
+> # Name
+> ![[content/Z_Assets/Girlies/Zaenaerys.jpeg|cover hsmall]]
+> ###### Stats
+> Type |  Stat |
+> ---|---|
+> Test | Testing |
+> Test | Testing |
+> Test | Testing |
+> Test | Testing |
 
 | HP Max              | AC                  | Speed                           | Initiative          |
 | ------------------- | ------------------- | ------------------------------- | ------------------- |
