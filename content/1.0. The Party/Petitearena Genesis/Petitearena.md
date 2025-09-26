@@ -31,30 +31,30 @@ tags:
 > | <center>10</center>     | <center>14</center>     | <center>12</center> | <center>13</center>  | <center>10</center> | <center>15</center> | **Stats**         |
 > | <center>+0</center>     | <center>+2</center>     | <center>+1</center> | <center>+3</center> | <center>+0</center> | <center>+2</center> | **Ability Bonus** |
 > | <center>+0</center> | <center>+2</center> | <center>+1</center> | <center>**+6**</center> | <center>**+3**</center> | <center>+2</center> | **Saving Throw**  |
-> | <center><input type="checkbox" unchecked></center>    | <center><input type="checkbox" unchecked></center>     | <center><input type="checkbox" unchecked></center> | <center><input type="checkbox" unchecked></center>  | <center><input type="checkbox" unchecked></center> | <center><input type="checkbox" unchecked></center> | **Prof.**         |
+> | <center><p>&#10023;</p></center>    | <center><p>&#10023;</p></center>     | <center><p>&#10023;</p></center> | <center><p>&#10022;</p></center>  | <center><p>&#10022;</p></center> | <center><p>&#10023;</p></center> | **Prof.**         |
 > 
 
 > [!note]- Skills
 > | Skill               | Prof.                                              |   #    | Ability |
 > | ------------------- | -------------------------------------------------- | :----: | :-----: |
-> | Acrobatics          | <center><input type="checkbox" unchecked></center> |   +2   |   DEX   |
-> | Animal Handling | <center><input type="checkbox" unchecked></center> | +0 |   WIS   |
-> | **Arcana**              | <center><input type="checkbox" unchecked></center> |   **+6**   |   INT   |
-> | Athletics           | <center><input type="checkbox" unchecked></center> |   +0   |   STR   |
-> | Deception           | <center><input type="checkbox" unchecked></center> |   +2   |   CHA   |
-> | **History**         | <center><input type="checkbox" unchecked></center> | **+6** |   INT   |
-> | **Insight**             | <center><input type="checkbox" unchecked></center> |   **+3**   |   WIS   |
-> | Intimidation        | <center><input type="checkbox" unchecked></center> |   +2   |   CHA   |
-> | Investigation       | <center><input type="checkbox" unchecked></center> |   +3   |   INT   |
-> | Medicine            | <center><input type="checkbox" unchecked></center> |   +0   |   WIS   |
-> | Nature              | <center><input type="checkbox" unchecked></center> |   +3   |   INT   |
-> | Perception      | <center><input type="checkbox" unchecked></center> | +0 |   WIS   |
-> | Performance         | <center><input type="checkbox" unchecked></center> |   +2   |   CHA   |
-> | **Persuasion**      | <center><input type="checkbox" unchecked></center> | **+5** |   CHA   |
-> | Religion            | <center><input type="checkbox" unchecked></center> |  +3   |   INT   |
-> | Sleight of Hand     | <center><input type="checkbox" unchecked></center> |   +2   |   DEX   |
-> | Stealth         | <center><input type="checkbox" unchecked></center> | +2 |   DEX   |
-> | Survival            | <center><input type="checkbox" unchecked></center> |   +0   |   WIS   |
+> | Acrobatics          | <center><p>&#10023;</p></center> |   +2   |   DEX   |
+> | Animal Handling | <center><p>&#10023;</p></center> | +0 |   WIS   |
+> | **Arcana**              | <center><p>&#10022;</p></center> |   **+6**   |   INT   |
+> | Athletics           | <center><p>&#10023;</p></center> |   +0   |   STR   |
+> | Deception           | <center><p>&#10023;</p></center> |   +2   |   CHA   |
+> | **History**         | <center><p>&#10022;</p></center> | **+6** |   INT   |
+> | **Insight**             | <center><p>&#10022;</p></center> |   **+3**   |   WIS   |
+> | Intimidation        | <center><p>&#10023;</p></center> |   +2   |   CHA   |
+> | Investigation       | <center><p>&#10023;</p></center> |   +3   |   INT   |
+> | Medicine            | <center><p>&#10023;</p></center> |   +0   |   WIS   |
+> | Nature              | <center><p>&#10023;</p></center> |   +3   |   INT   |
+> | Perception      | <center><p>&#10023;</p></center> | +0 |   WIS   |
+> | Performance         | <center><p>&#10023;</p></center> |   +2   |   CHA   |
+> | **Persuasion**      | <center><p>&#10022;</p></center> | **+5** |   CHA   |
+> | Religion            | <center><p>&#10023;</p></center> |  +3   |   INT   |
+> | Sleight of Hand     | <center><p>&#10023;</p></center> |   +2   |   DEX   |
+> | Stealth         | <center><p>&#10023;</p></center> | +2 |   DEX   |
+> | Survival            | <center><p>&#10023;</p></center> |   +0   |   WIS   |
 > 
 
 # Traits
