@@ -12,7 +12,7 @@ tags:
 | Class       | Drakewarden Ranger |
 | Level       | 5                  |
 | Proficiency | +3                 |
-<img src="/content/Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli">
+
 > [!infobox|left]+
 > # Name
 > ![[content/Z_Assets/Girlies/Zaenaerys.jpeg|cover hsmall]]

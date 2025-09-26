@@ -35,7 +35,7 @@ Adventure_Diary::
 **Race** | 
 **Alignment** | 
 **Background** | 
-
+<img src="/content/Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli">
 ---
 # Stats
 HP | AC | Speed | Initiative |
