@@ -15,7 +15,7 @@ tags:
 
 > [!infobox|left]+
 > # Name
-> ![[content/Z_Assets/Girlies/Zaenaerys.jpeg|cover hsmall]]
+> ![[Z_Assets/Girlies/Zaenaerys.jpeg|cover hsmall]]
 > ###### Stats
 > Type |  Stat |
 > ---|---|
