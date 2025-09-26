@@ -7,22 +7,17 @@ tags:
 
 | Type        | Stat               |
 | ----------- | ------------------ |
-| Race        | Dragonborn         |
-| Background  | Noble              |
-| Class       | Drakewarden Ranger |
-| Level       | 5                  |
-| Proficiency | +3                 |
+| **Race**        | Dragonborn         |
+| **Background**  | Noble              |
+| **Class**       | Drakewarden Ranger |
+| **Level**       | 5                  |
+| **Proficiency** | +3                 |
 
 > [!infobox|left]+
 > # Name
-> ![[content/Z_Assets/Girlies/Zaenaerys.jpeg|cover hsmall]]
-> ###### Stats
-> Type |  Stat |
-> ---|---|
-> Test | Testing |
-> Test | Testing |
-> Test | Testing |
-> Test | Testing |
+> <img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli"  height="300">
+> 
+
 
 | HP Max              | AC                  | Speed                           | Initiative          |
 | ------------------- | ------------------- | ------------------------------- | ------------------- |
@@ -35,7 +30,7 @@ tags:
 | Senses                 | \#                  |
 | ---------------------- | ------------------- |
 | **Passive Perception** | <center>16</center> |
-| Passive Insight        | <center>13</center> |
+| **Passive Insight**    | <center>13</center> |
 
 > [!note]- Abilities and Skills
 > | <u>**Strength**</u>     | <u>**Dexterity**</u>    | Constitution        | Intelligence        | Wisdom              | Charisma            |                   |
