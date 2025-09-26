@@ -37,7 +37,7 @@ Adventure_Diary::
 **Background** | 
 
 
-<img src="/content/Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli">
+<img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli">
 
 
 ---
