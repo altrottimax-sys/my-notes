@@ -4,17 +4,20 @@ draft: false
 tags:
   -
 ---
-<img style="float: right;" img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli"  height="300">
 
-| Type                   | Stat               |
-| ---------------------- | ------------------ |
-| **Race**               | Dragonborn         |
-| **Background**         | Noble              |
-| **Class**              | Drakewarden Ranger |
-| **Level**              | 5                  |
-| **Proficiency**        | +3                 |
-| **Passive Perception** | 16                 |
-| **Passive Insight**    | 13                 |
+| Type        | Stat               |
+| ----------- | ------------------ |
+| **Race**        | Dragonborn         |
+| **Background**  | Noble              |
+| **Class**       | Drakewarden Ranger |
+| **Level**       | 5                  |
+| **Proficiency** | +3                 |
+
+> [!infobox|left]+
+> # Name
+> <img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli"  height="300">
+> 
+
 
 | HP Max              | AC                  | Speed                           | Initiative          |
 | ------------------- | ------------------- | ------------------------------- | ------------------- |
@@ -24,16 +27,18 @@ tags:
 | :-------------------: | :-----------------: | :-----: |
 | <center>4d10</center> | <center>+3</center> |         |
 
-> [!note]- Abilities 
+| Senses                 | \#                  |
+| ---------------------- | ------------------- |
+| **Passive Perception** | <center>16</center> |
+| **Passive Insight**    | <center>13</center> |
+
+> [!note]- Abilities and Skills
 > | <u>**Strength**</u>     | <u>**Dexterity**</u>    | Constitution        | Intelligence        | Wisdom              | Charisma            |                   |
 > | ----------------------- | ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ----------------- |
 > | <center>10</center>     | <center>16</center>     | <center>14</center> | <center>8</center>  | <center>16</center> | <center>11</center> | **Stats**         |
 > | <center>+0</center>     | <center>+3</center>     | <center>+2</center> | <center>-1</center> | <center>+3</center> | <center>+0</center> | **Ability Bonus** |
 > | <center>**+3**</center> | <center>**+6**</center> | <center>+2</center> | <center>-1</center> | <center>+3</center> | <center>+0</center> | **Saving Throw**  |
-> | <center><input type="checkbox" unchecked></center>    | <center><input type="checkbox" unchecked></center>     | <center><input type="checkbox" unchecked></center> | <center><input type="checkbox" unchecked></center>  | <center><input type="checkbox" unchecked></center> | <center><input type="checkbox" unchecked></center> | **Prof.**         |
 > 
-
-> [!note]- Skills
 > | Skill               | Prof.                                              |   #    | Ability |
 > | ------------------- | -------------------------------------------------- | :----: | :-----: |
 > | Acrobatics          | <center><input type="checkbox" unchecked></center> |   +3   |   DEX   |
