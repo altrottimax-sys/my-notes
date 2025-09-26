@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-<img style="float: right;" img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli"  height="300">
+<img style="float: right;" img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli"  height="360">
 
 | Type                   | Stat               |
 | ---------------------- | ------------------ |
@@ -55,3 +55,42 @@ tags:
 > | **Stealth**         | <center><input type="checkbox" unchecked></center> | **+6** |   DEX   |
 > | Survival            | <center><input type="checkbox" unchecked></center> |   +3   |   WIS   |
 > 
+
+# Traits
+
+
+## Proficiencies
+
+
+## Languages
+
+
+# Actions
+
+
+## Spells
+
+| Levels          | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
+| --------------- | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
+| Spell Slots     |     |     |     |     |     |     |     |      |     |
+| Prepared Spells |     |     |     |     |     |     |     |      |     |
+
+# Equipment
+CP | SP | EP | GP | PP |
+:---:|:---:|:---:|:---:|:---:|
+|||||
+
+- 
+
+# Personality
+###### Personality Traits
+
+###### Ideals
+
+###### Bonds
+
+###### Flaws
+
+###### Groups
+
+###### Religion
