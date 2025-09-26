@@ -4,6 +4,7 @@ draft: false
 tags:
   -
 ---
+
 <img style="float: right;" img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Italian Trulli"  height="360">
 
 | Type                   | Stat               |
@@ -18,11 +19,12 @@ tags:
 
 | HP Max              | AC                  | Speed                           | Initiative          |
 | ------------------- | ------------------- | ------------------------------- | ------------------- |
-| <center>36</center> | <center>15</center> | <center>9m (6 Squares)</center> | <center>+3</center> |
+| <center>40</center> | <center>15</center> | <center>9m (6 Squares)</center> | <center>+3</center> |
 
 |       Hit Dice        |  Proficiency Bonus  | Temp HP |
 | :-------------------: | :-----------------: | :-----: |
-| <center>4d10</center> | <center>+3</center> |         |
+| <center>5d10</center> | <center>+3</center> |         |
+
 
 > [!note]- Abilities 
 > | <u>**Strength**</u>     | <u>**Dexterity**</u>    | Constitution        | Intelligence        | Wisdom              | Charisma            |                   |
@@ -76,10 +78,11 @@ tags:
 | Prepared Spells |     |     |     |     |     |     |     |      |     |
 
 # Equipment
-CP | SP | EP | GP | PP |
-:---:|:---:|:---:|:---:|:---:|
-|||||
 
+| Copper Pieces | Silver Pieces | Gold Pieces | Platinum Pieces |
+| ------------- | ------------- | ----------- | --------------- |
+|               |               |             |                 |
+Major Items
 - 
 
 # Personality
