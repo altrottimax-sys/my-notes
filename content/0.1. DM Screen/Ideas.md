@@ -24,3 +24,8 @@ vokun was split into echoes
 | A black dragon recently took control of a band of pirates and their backwater hideout. Emboldened, the pirates have started raiding nearby shipping lanes. |
 |                                                                                                                                                            |
 **Magical Crafting**. Mirroring the creative acts of Bahamut and Tiamat, dragons craft their eggs through painstaking labor, then breathe the gift of life into them
+
+colours:
+#fbefd5
+#514d45 
+#a69e8d

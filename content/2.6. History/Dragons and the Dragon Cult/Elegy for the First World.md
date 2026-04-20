@@ -10,7 +10,7 @@ painting all over the infinite canvas.
 Partnered they woke in the darkness;
 partnered, they laboured in acts of creation.
 
-Breathe, Dragons; Sing then of Vokun
+Breathe, Dragons; Sing then of <del>Vokun</del>
 shadow-black absence that fathered their likeness;
 Vokun, first born of dragonkind
 laboured alongside Bahamut and Tiamat,

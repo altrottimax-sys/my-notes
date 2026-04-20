@@ -1,11 +1,11 @@
 ---
-title: "PersonalQuest; Zaenaerys - The Dragonkin Curse"
+title: Personal Quest; Cuntita - Wanted, Dead or Alive
 draft: false
 tags:
   -
 ---
 
-# Zaenarys
+# Cuntita
  
 
 ## Objectives

@@ -6,7 +6,10 @@ tags:
 ---
  
 Cuntita the Criminal was born into a world that sang of betrayal and darkness. Raised in the back alleys of Baldur's Gate, a bustling port city notorious for its rampant corruption, she quickly learned that might made right. Her parents were lowly dockworkers who served as pawns in a larger game played by smugglers and pirates. 
-
+<div style="float: left; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px solid red; background: #c9bfaa">
+  <img src="Z_Assets/Girlies/Cuntita.jpeg" style="border: 2px solid red;"alt="Cuntita"  height="420" >
+  <h6><center>Cuntita</center></h6>
+</div>
 When Cuntita was just ten years old, her family fell victim to an elaborate ploy orchestrated by one such pirate crew: they were framed for stealing cargo meant for the ruling Council of Four. In one brutal stroke, both of her parents were imprisoned, leaving Cuntita to fend for herself on the unforgiving streets.
 
 Survival honed her skills; strength became her constant companion as she beat down those who would stand in her way. The [[Zhentarim]], a cadre of self-serving thieves, spies, assassins and malevolent wizards, who for a time, were indentured by their leaders to serve dark gods Bane and Cyric, took in Cuntita and nurtured her darker self.
