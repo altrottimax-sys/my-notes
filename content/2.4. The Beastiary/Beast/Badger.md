@@ -6,7 +6,7 @@ tags:
 ---
 
 <div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
-  <img src="Z_Assets/beastiary/badger.jpeg" style="border: 2px solid black; float: right;object-fit: cover;"  height="240"  height="240" >
+  <img src="Z_Assets/beastiary/badger.jpeg" style="border: 2px solid black; float: right;object-fit: cover;"  height="240" width="240">
 	<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">&ensp; Badger</h1>
 	<table   style="width: 90%; border: 2px solid black; background-color: #b0a795;margin: 0;" >
 	  <tr>
@@ -58,7 +58,7 @@ tags:
 ---
 
 <div style="width: 850px; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
-  <img src="Z_Assets/beastiary/badger.jpeg" style="border: 2px solid black; float: right;object-fit: cover;"  height="250"  height="250" >
+  <img src="Z_Assets/beastiary/badger.jpeg" style="border: 2px solid black; float: right; object-fit: cover;"  height="250" width="250">
 	<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Badger</h1>
 	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
 	  <tr>
