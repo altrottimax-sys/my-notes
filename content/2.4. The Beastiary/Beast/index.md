@@ -3,10 +3,11 @@ title: Beasts
 draft: false
 tags:
 ---
+
 <div style="width: 850px; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
-  <img src="Z_Assets/beastiary/badger.jpeg" style="border: 2px solid black; float: right;object-fit: cover;"  height="250"  height="250" >
+  <img src="badger.jpeg" style="border: 2px solid black; float: right; object-fit: cover;"  height="250" width="250">
 	<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Badger</h1>
-	<table   style="width: 600px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
+	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
 	  <tr>
 	    <th style="width: 25%; padding: 0;border-bottom: 1px solid black; ">&ensp;AC</th>
 	    <td style="width: 35%; padding: 0;border-bottom: 1px solid black; border-right: 1px solid black;">10</td>
@@ -32,7 +33,7 @@ tags:
 	    <td style="width: 5%; padding: 0;border-bottom: 1px solid black; ">5(-3)</td>
 	  </tr>
 	</table>
-	<table   style="width: 600px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
+	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
 	  <tr>
 	    <th style="width: 15%; padding: 0;border-bottom: 1px solid black; ">&ensp;Senses</th>
 	    <td style="width: 35%; padding: 0;border-bottom: 1px solid black; border-right: 1px solid black;">Darkvision 6sq, Passive Perception 11</td>
@@ -51,4 +52,3 @@ tags:
 	<h6>&ensp;Actions</h6>
 		<p>Bite: +2 to hit, reach 1sq, one target. Hit: 1 piercing damage.</p>
 </div>
-<hr>
