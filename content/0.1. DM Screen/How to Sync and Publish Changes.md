@@ -1,5 +1,5 @@
 ---
-title: Ideas
+title: How to Sync and Publish Changes
 draft: true
 tags:
   -
