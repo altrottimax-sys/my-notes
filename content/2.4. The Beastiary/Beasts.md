@@ -4,10 +4,9 @@ draft: false
 tags:
   -
 ---
- 
-<div style="width: 850px; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
+ <h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Badger</h1>
+<div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
   <img src="badger.jpeg" style="border: 2px solid black; float: right; object-fit: cover;"  height="250" width="250">
-	<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Badger</h1>
 	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
 	  <tr>
 	    <th style="width: 25%; padding: 0;border-bottom: 1px solid black; ">&ensp;AC</th>
@@ -55,10 +54,9 @@ tags:
 </div>
 
 ---
-
+<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Boar <sub>(Medium Beast)</sub></h1>
 <div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
   <img src="boar.jpeg" style="border: 2px solid black; float: right; object-fit: cover;"  height="250" width="250">
-	<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Boar <sub>(Medium Beast)</sub></h1>
 	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
 	  <tr>
 	    <th style="width: 25%; padding: 0;border-bottom: 1px solid black; ">&ensp;AC</th>
