@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Gods and Worship
 draft: false
 tags:
   -

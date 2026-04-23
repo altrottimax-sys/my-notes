@@ -1,7 +1,8 @@
 ---
-title: <% tp.file.title %>
+title: Undead
 draft: false
 tags:
   -
 ---
-
+ 
+ 

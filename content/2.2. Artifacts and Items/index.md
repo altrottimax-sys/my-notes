@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Artifacts and Items
 draft: false
 tags:
   -

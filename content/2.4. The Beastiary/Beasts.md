@@ -4,10 +4,10 @@ draft: false
 tags:
   -
 ---
- <h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Badger</h1>
-<div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
+## Badger
+<div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red;">
   <img src="badger.jpeg" style="border: 2px solid black; float: right; object-fit: cover;"  height="250" width="250">
-	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
+	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;margin-top: 17px;" >
 	  <tr>
 	    <th style="width: 25%; padding: 0;border-bottom: 1px solid black; ">&ensp;AC</th>
 	    <td style="width: 35%; padding: 0;border-bottom: 1px solid black; border-right: 1px solid black;">10</td>
@@ -54,10 +54,10 @@ tags:
 </div>
 
 ---
-<h1 style="margin: 0; padding-bottom: 3px; padding-top: 7px">Boar <sub>(Medium Beast)</sub></h1>
-<div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red; background: #c9bfaa">
+## Boar
+<div style="width: 100%; margin: 2px; padding-left: 10px; padding-right: 10px; border: 4px groove red;">
   <img src="boar.jpeg" style="border: 2px solid black; float: right; object-fit: cover;"  height="250" width="250">
-	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;" >
+	<table   style="width: 580px; border: 2px solid black; background-color: #b0a795;margin: 0;margin-top: 17px;" >
 	  <tr>
 	    <th style="width: 25%; padding: 0;border-bottom: 1px solid black; ">&ensp;AC</th>
 	    <td style="width: 35%; padding: 0;border-bottom: 1px solid black; border-right: 1px solid black;">11</td>
@@ -98,7 +98,7 @@ tags:
 	  </tr>
 	</table>
 	<h6>&ensp;Features</h6>
-		<p><b>Bloodied Fury:</b>While Bloodied, the boar has Advantage on attack rolls.</p>
+		<p><b>Bloodied Fury:</b> While Bloodied, the boar has Advantage on attack rolls.</p>
 		<p><b>Relentless (once per Short or Long Rest):</b> If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>
 	<h6>&ensp;Actions</h6>
 		<p><b>Gore:</b> +3 to hit, reach 1sq. Hit: 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and has the Prone condition.</p>

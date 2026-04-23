@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Oozes
 draft: false
 tags:
   -

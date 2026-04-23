@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: The Beastiary
 draft: false
 tags:
   -
