@@ -16,4 +16,4 @@ The dragon that besets us is not the first to threaten this region. Between here
 - [ ] 
 
 > [!success] ***QUEST COMPLETED***
-> You weren't able to return Adabra back to Phandalin, but you saved her from a Manticore and unlocked a source of potions of healing!
+> You not only discovered the Alagondar Family Sword 'Dragon Slayer', but a secret base of the Dragon Cult!

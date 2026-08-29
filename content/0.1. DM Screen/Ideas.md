@@ -29,3 +29,7 @@ colours:
 #fbefd5
 #514d45 
 #a69e8d
+
+
+7deadlysins/espada numbers for "shardbearers" of dragons (one for each attribute)
+8 gates or 6 paths of pain for densaang
