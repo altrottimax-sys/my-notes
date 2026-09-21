@@ -1,5 +1,5 @@
 ---
-title: Recap of Sessions 5-10
+title: Recap of Sessions 6-10
 draft: false
 tags:
   -

@@ -241,7 +241,7 @@ height: 100%;
 </div>
 
 <div class="ms-notice">
-This page documents a player character. Some details may change as the story of Faerun unfolds.
+This page documents Cuntita's journey. Some details may change as the story of ţ̷͖̳̎̃̒ͦh̝̘̭̓e̠͙ͩ͛ m̶͙̤͍͒ä̶̧̟̣̜̰̫g̴̽̂͌̆͛ͫ̆ȋ̶̹̱̺̼ṣ̼̖̩̹̠ͥͫͨ̏ͯt̸̴̯͖̳̮̄ͭr̷̵̃ą̷̲͔̥̫̘̒̌̅͋̆̏̍ṱ̵̬͇̬͉ͥ̽͆̆ͥͨͅę̹̺̙̲ unfolds.
 </div>
 
 ## Character Overview

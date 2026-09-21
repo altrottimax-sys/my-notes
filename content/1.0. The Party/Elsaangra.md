@@ -241,7 +241,7 @@ height: 100%;
 </div>
 
 <div class="ms-notice">
-This page documents a player character. Some details may change as the story of Faerun unfolds.
+This page documents Elsaangra's Journey. Some details may change as the story of her lunar devotion unfolds.
 </div>
 
 ## Character Overview

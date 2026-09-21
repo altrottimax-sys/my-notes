@@ -1,7 +1,5 @@
 ---
-title: Elemental
+title: Legendary
 draft: false
 tags:
-  -
 ---
-

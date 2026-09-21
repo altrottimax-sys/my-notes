@@ -241,7 +241,7 @@ height: 100%;
 </div>
 
 <div class="ms-notice">
-This page documents Daenerys' journey. Some details may change as the story of Faerun unfolds.
+This page documents Zaenerys' journey. Some details may change as the story of her cursed blood unfolds.
 </div>
 
 ## Character Overview

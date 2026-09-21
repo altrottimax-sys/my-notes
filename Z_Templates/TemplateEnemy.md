@@ -200,11 +200,19 @@ tags:
   align-items: flex-start;
 }
 
+/* Left column: portrait + ability scores stacked, locked to the portrait's width */
+.sb-portrait-col {
+  flex-shrink: 0;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
 .sb-main { flex: 1; min-width: 0; }
 
 /* Portrait frame — fixed 240x240px, whatever the source image's native size */
 .sb-portrait {
-  flex-shrink: 0;
   width: 240px;
   height: 240px;
   border: 1px solid var(--border);
@@ -212,14 +220,23 @@ tags:
   overflow: hidden;
   background: var(--ink);
   box-shadow: inset 0 0 0 1px rgba(251,245,227,0.3);
+  line-height: 0;
 }
+
+.sb-portrait p {
+  margin: 0;
+  height: 100%;
+}
+
 .sb-portrait img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: center center;
-  display: block;
+  margin: 0;
 }
+
 /* Empty-state placeholder shown when no <img> is present */
 .sb-portrait:empty::after {
   content: "No Image";
@@ -234,6 +251,38 @@ tags:
   text-transform: uppercase;
   color: var(--ink-dim) !important;
   background: var(--table-head) !important;
+}
+
+/* Ability scores — now sit beneath the portrait, sized to its 240px column */
+.sb-abilities {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+  width: 100%;
+}
+.sb-abilities .ab-box {
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: var(--table-head) !important;
+  text-align: center;
+  padding: 5px 2px;
+}
+.sb-abilities .ab-name {
+  font-family: 'Cinzel', serif;
+  font-size: .58rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--ink-dim) !important;
+  display: block;
+}
+.sb-abilities .ab-score {
+  font-family: 'Cinzel', serif;
+  font-size: .92rem;
+  color: var(--ink) !important;
+}
+.sb-abilities .ab-mod {
+  font-size: .72rem;
+  color: var(--ink-dim) !important;
 }
 
 .sb-quickstats {
@@ -267,37 +316,6 @@ tags:
   border: none;
   border-top: 1px solid var(--border);
   margin: 12px 0;
-}
-
-.sb-abilities {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 6px;
-  margin-bottom: 12px;
-}
-.sb-abilities .ab-box {
-  border: 1px solid var(--border);
-  border-radius: 3px;
-  background: var(--table-head) !important;
-  text-align: center;
-  padding: 5px 2px;
-}
-.sb-abilities .ab-name {
-  font-family: 'Cinzel', serif;
-  font-size: .58rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: var(--ink-dim) !important;
-  display: block;
-}
-.sb-abilities .ab-score {
-  font-family: 'Cinzel', serif;
-  font-size: .92rem;
-  color: var(--ink) !important;
-}
-.sb-abilities .ab-mod {
-  font-size: .72rem;
-  color: var(--ink-dim) !important;
 }
 
 .sb-meta {
@@ -335,6 +353,7 @@ tags:
 
 @media (max-width: 640px) {
   .sb-body { flex-direction: column; }
+  .sb-portrait-col { width: 100%; }
   .sb-portrait { width: 100%; height: 240px; }
 }
 </style>
@@ -353,23 +372,16 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
   <div class="sb-header">
     <div>
       <div class="sb-name">Badger</div>
-      <div class="sb-type">Small beast, unaligned</div>
+      <div class="sb-type">Small beast</div>
     </div>
     <div class="sb-cr">CR 0</div>
   </div>
   <div class="sb-body">
 
+  <div class="sb-portrait-col">
+
   <div class="sb-portrait">
-    <img src="badger.png" alt="Badger">
-  </div>
-
-  <div class="sb-main">
-
-  <div class="sb-quickstats">
-    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
-    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">3 (1d4+1)</span></div>
-    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">5 ft, burrow 5 ft</span></div>
-    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
+    <img src="badger.jpeg" alt="Badger">
   </div>
 
   <div class="sb-abilities">
@@ -379,6 +391,17 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
     <div class="ab-box"><span class="ab-name">Int</span><span class="ab-score">2</span> <span class="ab-mod">(-4)</span></div>
     <div class="ab-box"><span class="ab-name">Wis</span><span class="ab-score">12</span> <span class="ab-mod">(+1)</span></div>
     <div class="ab-box"><span class="ab-name">Cha</span><span class="ab-score">5</span> <span class="ab-mod">(-3)</span></div>
+  </div>
+
+  </div>
+
+  <div class="sb-main">
+
+  <div class="sb-quickstats">
+    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
+    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">3 (1d4+1)</span></div>
+    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">5 ft, burrow 5 ft</span></div>
+    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
   </div>
 
   <div class="sb-meta"><span class="meta-label">Senses</span> — darkvision 30 ft, passive Perception 11</div>
@@ -399,23 +422,16 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
   <div class="sb-header">
     <div>
       <div class="sb-name">Boar</div>
-      <div class="sb-type">Medium beast, unaligned</div>
+      <div class="sb-type">Medium beast</div>
     </div>
     <div class="sb-cr">CR 1/4</div>
   </div>
   <div class="sb-body">
 
+  <div class="sb-portrait-col">
+
   <div class="sb-portrait">
-    <img src="boar.png" alt="Boar">
-  </div>
-
-  <div class="sb-main">
-
-  <div class="sb-quickstats">
-    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
-    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">11 (2d8+2)</span></div>
-    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">40 ft</span></div>
-    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
+    <img src="boar.jpeg" alt="Boar">
   </div>
 
   <div class="sb-abilities">
@@ -425,6 +441,17 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
     <div class="ab-box"><span class="ab-name">Int</span><span class="ab-score">2</span> <span class="ab-mod">(-4)</span></div>
     <div class="ab-box"><span class="ab-name">Wis</span><span class="ab-score">9</span> <span class="ab-mod">(-1)</span></div>
     <div class="ab-box"><span class="ab-name">Cha</span><span class="ab-score">5</span> <span class="ab-mod">(-3)</span></div>
+  </div>
+
+  </div>
+
+  <div class="sb-main">
+
+  <div class="sb-quickstats">
+    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
+    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">11 (2d8+2)</span></div>
+    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">40 ft</span></div>
+    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
   </div>
 
   <div class="sb-meta"><span class="meta-label">Senses</span> — passive Perception 9</div>

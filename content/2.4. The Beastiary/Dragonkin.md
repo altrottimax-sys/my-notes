@@ -1,10 +1,9 @@
 ---
-title: Bestiary — Encounter Cards2
+title: Dragonkin
 draft: false
 tags:
   -
 ---
-
 <style>
 .ms-page {
   color-scheme: light;
@@ -183,7 +182,14 @@ tags:
   font-style: italic;
   color: #f1e3c0 !important;
 }
-.sb-header .sb-cr {
+.sb-header .sb-badges {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.sb-header .sb-cr,
+.sb-header .sb-prof,
+.sb-header .sb-perc {
   font-family: 'Cinzel', serif;
   font-size: .72rem;
   letter-spacing: 1px;
@@ -202,11 +208,19 @@ tags:
   align-items: flex-start;
 }
 
+/* Left column: portrait + ability scores + senses/languages table, all locked to 240px */
+.sb-portrait-col {
+  flex-shrink: 0;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
 .sb-main { flex: 1; min-width: 0; }
 
 /* Portrait frame — fixed 240x240px, whatever the source image's native size */
 .sb-portrait {
-  flex-shrink: 0;
   width: 240px;
   height: 240px;
   border: 1px solid var(--border);
@@ -217,19 +231,20 @@ tags:
   line-height: 0;
 }
 
-.sb-portrait p { 
-margin: 0; 
-height: 100%;
+.sb-portrait p {
+  margin: 0;
+  height: 100%;
 }
 
 .sb-portrait img {
-  display: block; width: 100%; 
-  height: 100%; 
-  object-fit: cover; 
-  object-position: center center; 
-  margin: 0; 
-  }
-  
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  margin: 0;
+}
+
 /* Empty-state placeholder shown when no <img> is present */
 .sb-portrait:empty::after {
   content: "No Image";
@@ -244,6 +259,57 @@ height: 100%;
   text-transform: uppercase;
   color: var(--ink-dim) !important;
   background: var(--table-head) !important;
+}
+
+/* Ability scores — sit beneath the portrait, sized to its 240px column */
+.sb-abilities {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+  width: 100%;
+}
+.sb-abilities .ab-box {
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: var(--table-head) !important;
+  text-align: center;
+  padding: 5px 2px;
+}
+.sb-abilities .ab-name {
+  font-family: 'Cinzel', serif;
+  font-size: .58rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--ink-dim) !important;
+  display: block;
+}
+.sb-abilities .ab-score {
+  font-family: 'Cinzel', serif;
+  font-size: .92rem;
+  color: var(--ink) !important;
+}
+.sb-abilities .ab-mod {
+  font-size: .72rem;
+  color: var(--ink-dim) !important;
+}
+
+/* Senses/Languages mini-table — sits below the ability grid, same 240px width */
+.sb-portrait-col table {
+  width: 100%;
+  margin: 0;
+  font-size: .74rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.sb-portrait-col th {
+  width: 38%;
+  font-size: .58rem;
+  padding: 4px 6px;
+  white-space: nowrap;
+}
+.sb-portrait-col td {
+  padding: 4px 6px;
 }
 
 .sb-quickstats {
@@ -279,47 +345,14 @@ height: 100%;
   margin: 12px 0;
 }
 
-.sb-abilities {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 6px;
-  margin-bottom: 12px;
-}
-.sb-abilities .ab-box {
-  border: 1px solid var(--border);
-  border-radius: 3px;
-  background: var(--table-head) !important;
-  text-align: center;
-  padding: 5px 2px;
-}
-.sb-abilities .ab-name {
-  font-family: 'Cinzel', serif;
-  font-size: .58rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: var(--ink-dim) !important;
-  display: block;
-}
-.sb-abilities .ab-score {
-  font-family: 'Cinzel', serif;
+/* Description — sits between Quick Stats and Features */
+.sb-description {
   font-size: .92rem;
-  color: var(--ink) !important;
-}
-.sb-abilities .ab-mod {
-  font-size: .72rem;
+  font-style: italic;
   color: var(--ink-dim) !important;
-}
-
-.sb-meta {
-  font-size: .85rem;
-  margin-bottom: 4px;
-}
-.sb-meta .meta-label {
-  font-family: 'Cinzel', serif;
-  font-size: .68rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: var(--accent) !important;
+  border-left: 3px solid var(--border);
+  padding: 4px 12px;
+  margin: 4px 0 14px;
 }
 
 .sb-section-title {
@@ -345,14 +378,20 @@ height: 100%;
 
 @media (max-width: 640px) {
   .sb-body { flex-direction: column; }
+  .sb-portrait-col { width: 100%; }
   .sb-portrait { width: 100%; height: 240px; }
+}
+
+@media (max-width: 480px) {
+  .sb-header { flex-wrap: wrap; }
+  .sb-badges { flex-wrap: wrap; }
 }
 </style>
 
 <div class="ms-page">
 
 <div class="ms-notice">
-This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to browse further entries.
+This page catalogues enemy dragonkin encountered on the Sword Coast. Scroll down to browse further entries.
 </div>
 
 ## Bestiary
@@ -365,21 +404,18 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
       <div class="sb-name">Badger</div>
       <div class="sb-type">Small beast</div>
     </div>
-    <div class="sb-cr">CR 0</div>
+    <div class="sb-badges">
+      <div class="sb-cr">CR 0</div>
+      <div class="sb-prof">Proficiency +2</div>
+      <div class="sb-perc">Perception 11</div>
+    </div>
   </div>
   <div class="sb-body">
 
+  <div class="sb-portrait-col">
+
   <div class="sb-portrait">
     <img src="badger.jpeg" alt="Badger">
-  </div>
-
-  <div class="sb-main">
-
-  <div class="sb-quickstats">
-    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
-    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">3 (1d4+1)</span></div>
-    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">5 ft, burrow 5 ft</span></div>
-    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
   </div>
 
   <div class="sb-abilities">
@@ -391,15 +427,29 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
     <div class="ab-box"><span class="ab-name">Cha</span><span class="ab-score">5</span> <span class="ab-mod">(-3)</span></div>
   </div>
 
-  <div class="sb-meta"><span class="meta-label">Senses</span> — darkvision 30 ft, passive Perception 11</div>
-  <div class="sb-meta"><span class="meta-label">Languages</span> — none</div>
-  <div class="sb-meta"><span class="meta-label">Proficiency Bonus</span> — +2</div>
+  <table>
+    <tr><th>Senses</th><td>Darkvision 6sq</td></tr>
+    <tr><th>Languages</th><td>Animal</td></tr>
+  </table>
+
+  </div>
+
+  <div class="sb-main">
+
+  <div class="sb-quickstats">
+    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">10</span></div>
+    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">3 (1d4+1)</span></div>
+    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">3sq, burrow 1sq</span></div>
+    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
+  </div>
+
+  <div class="sb-description">A stout, low-slung burrower with a striped face, more often heard snuffling through undergrowth than seen. Placid unless cornered, at which point its claws and temper are surprisingly sharp.</div>
 
   <div class="sb-section-title">Features</div>
-  <div class="sb-feature"><span class="feat-name">Keen Smell.</span> The badger has advantage on Wisdom (Perception) checks that rely on scent.</div>
+  <div class="sb-feature"><span class="feat-name">Keen Smell:</span> The badger has advantage on Wisdom (Perception) checks that rely on scent.</div>
 
   <div class="sb-section-title">Actions</div>
-  <div class="sb-feature"><span class="feat-name">Bite.</span> Melee Weapon Attack: +2 to hit, reach 5 ft, one target. Hit: 1 piercing damage.</div>
+  <div class="sb-feature"><span class="feat-name">Bite:</span> Melee Weapon Attack | +2 to hit, reach 5 ft, one target | Hit: 1 piercing damage.</div>
 
   </div>
   </div>
@@ -411,21 +461,18 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
       <div class="sb-name">Boar</div>
       <div class="sb-type">Medium beast</div>
     </div>
-    <div class="sb-cr">CR 1/4</div>
+    <div class="sb-badges">
+      <div class="sb-cr">CR 1/4</div>
+      <div class="sb-prof">Proficiency +2</div>
+      <div class="sb-perc">Perception 9</div>
+    </div>
   </div>
   <div class="sb-body">
 
+  <div class="sb-portrait-col">
+
   <div class="sb-portrait">
     <img src="boar.jpeg" alt="Boar">
-  </div>
-
-  <div class="sb-main">
-
-  <div class="sb-quickstats">
-    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
-    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">11 (2d8+2)</span></div>
-    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">40 ft</span></div>
-    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
   </div>
 
   <div class="sb-abilities">
@@ -437,16 +484,30 @@ This page catalogues enemy NPCs encountered on Vvardenfell. Scroll down to brows
     <div class="ab-box"><span class="ab-name">Cha</span><span class="ab-score">5</span> <span class="ab-mod">(-3)</span></div>
   </div>
 
-  <div class="sb-meta"><span class="meta-label">Senses</span> — passive Perception 9</div>
-  <div class="sb-meta"><span class="meta-label">Languages</span> — none</div>
-  <div class="sb-meta"><span class="meta-label">Proficiency Bonus</span> — +2</div>
+  <table>
+    <tr><th>Senses</th><td>—</td></tr>
+    <tr><th>Languages</th><td>Animal</td></tr>
+  </table>
+
+  </div>
+
+  <div class="sb-main">
+
+  <div class="sb-quickstats">
+    <div class="qs-box"><span class="qs-label">Armour Class</span><span class="qs-value">11</span></div>
+    <div class="qs-box"><span class="qs-label">Hit Points</span><span class="qs-value">11 (2d8+2)</span></div>
+    <div class="qs-box"><span class="qs-label">Speed</span><span class="qs-value">8sq</span></div>
+    <div class="qs-box"><span class="qs-label">Initiative</span><span class="qs-value">+0</span></div>
+  </div>
+
+  <div class="sb-description">A bristling, low-tempered tusker that roots through forest floor and farmland alike. Slow to provoke but relentless once charging — travelers know to give a lowered head a wide berth.</div>
 
   <div class="sb-section-title">Features</div>
-  <div class="sb-feature"><span class="feat-name">Charge.</span> If the boar moves at least 10 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</div>
-  <div class="sb-feature"><span class="feat-name">Relentless (Recharges after a Short or Long Rest).</span> If the boar takes 7 damage or less that would reduce it to 0 hit points, it is instead reduced to 1 hit point.</div>
+  <div class="sb-feature"><span class="feat-name">Charge:</span> If the boar moves at least 10 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</div>
+  <div class="sb-feature"><span class="feat-name">Relentless (Recharges after a Short or Long Rest):</span> If the boar takes 7 damage or less that would reduce it to 0 hit points, it is instead reduced to 1 hit point.</div>
 
   <div class="sb-section-title">Actions</div>
-  <div class="sb-feature"><span class="feat-name">Tusk.</span> Melee Weapon Attack: +3 to hit, reach 5 ft, one target. Hit: 4 (1d6+1) slashing damage.</div>
+  <div class="sb-feature"><span class="feat-name">Tusk:</span> Melee Weapon Attack | +3 to hit, reach 5 ft, one target | Hit: 4 (1d6+1) slashing damage.</div>
 
   </div>
   </div>

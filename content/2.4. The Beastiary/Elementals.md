@@ -1,5 +1,5 @@
 ---
-title: Oozes
+title: Elementals
 draft: false
 tags:
   -
@@ -391,7 +391,7 @@ tags:
 <div class="ms-page">
 
 <div class="ms-notice">
-This page catalogues enemy oozes encountered on the Sword Coast. Scroll down to browse further entries.
+This page catalogues enemy elementals encountered on the Sword Coast. Scroll down to browse further entries.
 </div>
 
 ## Bestiary

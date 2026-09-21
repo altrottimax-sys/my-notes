@@ -280,13 +280,13 @@ tags:
 <div class="ms-hero">
   <div class="hero-title">
     <h1>The Tyranny of Dragons Campaign</h1>
-    <div class="hero-sub">A Chronicle of the Cult of the Dragon &amp; the War Against Tiamat</div>
+    <div class="hero-sub">A Chronicle of the Cult of the Dragon</div>
   </div>
   <div class="hero-sigil"></div>
 </div>
 
 <div class="ms-notice">
-Welcome, traveler. This wiki tracks our ongoing campaign — player characters, notable NPCs, locations, session recaps, and house rules. Use the spotlight below for what's current, or the index further down to browse everything.
+Welcome Girlies. This wiki tracks our ongoing campaign — player characters, notable NPCs, locations, session recaps, and house rules. Use the spotlight below for what I want to highlight, or the index further down to browse everything. :)
 </div>
 
 ## Spotlight
@@ -295,25 +295,25 @@ Welcome, traveler. This wiki tracks our ongoing campaign — player characters, 
 
 <div class="spotlight-card">
   <div class="sc-image"></div>
-  <div class="sc-tag">Latest Session</div>
-  <div class="sc-title">Session 12 — The Fall of Greenest</div>
-  <div class="sc-blurb">The party arrives too late to stop the raid, but not too late to make a difference. A recap of the battle, the choices made, and what was learned about the cult's plans.</div>
-  <div class="sc-link"><a href="/sessions/session-12">Read the Recap →</a></div>
+  <div class="sc-tag">Latest Recap</div>
+  <div class="sc-title">Sessions 6-10</div>
+  <div class="sc-blurb">Xblurb</div>
+  <div class="sc-link"><a href="/0.1. DM Screen/Session Journals/Recap of Sessions 6-10">Read the Recap →</a></div>
 </div>
 
 <div class="spotlight-card">
   <div class="sc-image"></div>
-  <div class="sc-tag">Featured Location</div>
-  <div class="sc-title">Greenest</div>
-  <div class="sc-blurb">A small trading town on the Coast Way, now smoldering in the wake of a dragon raid. Home to Governor Nighthill and the keep that sheltered the survivors.</div>
-  <div class="sc-link"><a href="/locations/greenest">Visit the Location →</a></div>
+  <div class="sc-tag">Clean, Improved and Pretty!</div>
+  <div class="sc-title">New Character Sheets</div>
+  <div class="sc-blurb">Xblurb</div>
+  <div class="sc-link"><a href="/1.0. The Party/index">Visit the Girlies →</a></div>
 </div>
 
 <div class="spotlight-card">
   <div class="sc-image"></div>
-  <div class="sc-tag">Featured NPC</div>
-  <div class="sc-title">Leosin Erlanthar</div>
-  <div class="sc-blurb">A monk and member of the Harpers who has been tracking the Cult of the Dragon for months. Currently held captive by cultists near Greenest.</div>
+  <div class="sc-tag">X Tag</div>
+  <div class="sc-title">X Title</div>
+  <div class="sc-blurb">X Blurb</div>
   <div class="sc-link"><a href="/npcs/leosin-erlanthar">View NPC Entry →</a></div>
 </div>
 
@@ -326,38 +326,38 @@ Welcome, traveler. This wiki tracks our ongoing campaign — player characters, 
 <div class="ms-index">
 
 <div class="index-col">
-  <div class="ic-head">Player Characters</div>
+  <div class="ic-head">Players &amp; Characters</div>
   <ul>
-    <li><a href="/characters/">All Characters</a></li>
-    <li><a href="/characters/party">The Party</a></li>
-    <li><a href="/characters/relationships">Relationships</a></li>
+    <li><a href="/1.0. The Party/index">The Party</a></li>
+    <li><a href="/2.3. Characters/index">Characters</a></li>
+    <li><a href="/2.2. Artifacts and Items/index">Artifacts &amp; Items</a></li>
   </ul>
 </div>
 
 <div class="index-col">
-  <div class="ic-head">Bestiary &amp; NPCs</div>
+  <div class="ic-head">Beastiary &amp; History</div>
   <ul>
-    <li><a href="/bestiary/">Bestiary</a></li>
-    <li><a href="/npcs/">Notable NPCs</a></li>
-    <li><a href="/npcs/cult-of-the-dragon">Cult of the Dragon</a></li>
+    <li><a href="/2.4. The Beastiary/index">Beastiary</a></li>
+    <li><a href="/2.6. History/index">History</a></li>
+    <li><a href="/2.7. Organisations and Nations/index">Orgs &amp; Nations</a></li>
   </ul>
 </div>
 
 <div class="index-col">
   <div class="ic-head">World &amp; Locations</div>
   <ul>
-    <li><a href="/locations/">All Locations</a></li>
-    <li><a href="/locations/greenest">Greenest</a></li>
-    <li><a href="/locations/map">World Map</a></li>
+    <li><a href="/2.1. World Almanac/North-West Faerun - The Sword Coast/index">World Almanac</a></li>
+    <li><a href="/X">X</a></li>
+    <li><a href="2.1. World Almanac/World Map">World Map</a></li>
   </ul>
 </div>
 
 <div class="index-col">
-  <div class="ic-head">Sessions &amp; Rules</div>
+  <div class="ic-head">Sessions &amp; House Rules</div>
   <ul>
-    <li><a href="/sessions/">Session Log</a></li>
-    <li><a href="/rules/house-rules">House Rules</a></li>
-    <li><a href="/rules/timeline">Campaign Timeline</a></li>
+    <li><a href="/0.1. DM Screen/Session Journals/index">Session Journals</a></li>
+    <li><a href="/0.1. DM Screen/house-rules">House Rules</a></li>
+    <li><a href="/X">X</a></li>
   </ul>
 </div>
 
@@ -369,9 +369,9 @@ Welcome, traveler. This wiki tracks our ongoing campaign — player characters, 
 
 | Page | Type | Last Updated |
 |---|---|:---:|
-| [[Session 12 — The Fall of Greenest]] | Session Log | — |
-| [[Leosin Erlanthar]] | NPC | — |
-| [[Greenest]] | Location | — |
-| [[House Rules]] | Reference | — |
+| [[X]] | X | — |
+| X | X | — |
+| X | X | — |
+| X | X | — |
 
 </div>

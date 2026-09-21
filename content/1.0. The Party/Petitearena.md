@@ -241,7 +241,7 @@ height: 100%;
 </div>
 
 <div class="ms-notice">
-This page documents a player character. Some details may change as the story of Faerun unfolds.
+This page documents Petitearena's Journey. Some details may change as the story of the Oghma Infinium unfolds.
 </div>
 
 ## Character Overview
