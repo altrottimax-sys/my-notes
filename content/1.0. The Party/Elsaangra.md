@@ -282,7 +282,7 @@ This page documents Elsaangra's Journey. Some details may change as the story of
 > | Stealth | Dex | ○ | +0 |
 > | Survival | Wis | ○ | +0 |
 
-> [!note]- Class Traits and Abilities
+> [!note]- Features & Class Traits
 > test
 
 ## Combat and Actions

@@ -1,8 +1,8 @@
 ---
-title: Elsaangra's Backstory
-draft: false
+title: <%tp.file.title%>
 tags:
-  -
+  - 
+draft: false
 ---
 <style>
 .ms-page {
@@ -310,42 +310,52 @@ tags:
 
 <div class="bio-plate">
   <div class="bp-title">
-    <h1>Elsaangra Nyssan</h1>
+    <h1>Character Name</h1>
     <div class="bp-sub">Origins &amp; Ongoing Story</div>
   </div>
 </div>
 
 <div class="ms-notice">
-This page holds the backstory and ongoing narrative for Elsaangra. It's a living document — expect it to grow as the campaign continues.
+This page holds the backstory and ongoing narrative for [[Character Name]]. It's a living document — expect it to grow as the campaign continues.
 </div>
 
 ## Origins
 
+<div class="bio-image left">
+  <div class="bi-frame"><img src="character.png" alt="description"></div>
+  <div class="bi-caption">Character Name, before everything changed</div>
+</div>
+
 <div class="bio-image left" style="width: auto;">
-  <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Elsaangra.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+  <div class="bi-frame" style="height: 420px; width: auto;">
+    <img src="character.png" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">Character Name, before everything changed</div>
 </div>
 
-Elsaangra is a high elf from the small town of Saang, Town of Shimmer, and was raised in the Grand Monastery of Saang. It is a place that values, knowledge and perfection. Elsaangra values the elegance of elven culture, however also finds herself drawn to the mysteries beyond her culture. In her early years, she trained as an acolyte of Sehanine Moonbow and learned the ways of the divine and secrets of the cosmos. 
+*Write the character's early life here — where they were born, who raised them, what shaped them before the story begins. This paragraph and the ones that follow will wrap naturally around the image box to the left, in the style of a wiki article.*
 
-However, the more she learned, the more she feels constrained by the rigid doctrines of her temple. Elsaangra began to question the strict moral code imposed by her superiors and sought out a deeper understanding of life and the balance between good and bad. 
+*Continue the origin story across as many paragraphs as needed. The image box stays anchored to the top-left of this section while the text flows around it.*
 
 <div class="bio-clear"></div>
 
 ## The Turning Point
 
-<div class="bio-image right" style="width: auto;">
-  <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Elsaangra.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
-  </div>
-  <div class="bi-caption">Character Name, before everything changed</div>
+<div class="bio-image right">
+  <div class="bi-frame"><img src="character.png" alt="description"></div>
+  <div class="bi-caption">The night that set them on this path</div>
 </div>
 
-With a thirst for adventure and satiating her curiosity, she begun to explore the darker alleyways of Saang, honing her skills as a rogue along the way- mastering stealth and agility over time. 
+<div class="bio-image right" style="width: auto;">
+  <div class="bi-frame" style="height: 420px; width: auto;">
+    <img src="character.png" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+  </div>
+  <div class="bi-caption">The night that set them on this path</div>
+</div>
 
-One night, as she peruses the town, she overhears talks of dragons and orcs in distant lands, and the ever looming threat that they pose to one such town; Phandalin. It is with this that she becomes increasingly curious and sets herself out on a journey…
+*Describe the event, decision, or loss that pushed the character toward adventuring. This section's image sits on the right instead, so the layout doesn't feel identical to the one above — text wraps around it the same way.*
+
+*Keep going here with as much detail as you like — motivations, unresolved tension, unanswered questions the character is still carrying.*
 
 <div class="bio-clear"></div>
 

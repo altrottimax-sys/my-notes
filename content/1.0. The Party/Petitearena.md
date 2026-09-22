@@ -282,7 +282,7 @@ This page documents Petitearena's Journey. Some details may change as the story 
 > | Stealth | Dex | ○ | +2 |
 > | Survival | Wis | ○ | +0 |
 
-> [!note]- Class Traits and Abilities
+> [!note]- Features & Class Traits
 > test
 
 ## Combat and Actions

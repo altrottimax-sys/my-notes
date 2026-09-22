@@ -282,7 +282,7 @@ This page documents Zaenerys' journey. Some details may change as the story of h
 > | Stealth | Dex | ✦✦ | +9 |
 > | Survival | Wis | ○ | +3 |
 
-> [!note]- Class Traits and Abilities
+> [!note]- Features & Class Traits
 > test
 
 ## Combat and Actions

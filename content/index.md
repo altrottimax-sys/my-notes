@@ -294,7 +294,7 @@ Welcome Girlies. This wiki tracks our ongoing campaign — player characters, no
 <div class="ms-spotlight-grid">
 
 <div class="spotlight-card">
-  <div class="sc-image"></div>
+  <div class="sc-image"><img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="The raid on Greenest"></div>
   <div class="sc-tag">Latest Recap</div>
   <div class="sc-title">Sessions 6-10</div>
   <div class="sc-blurb">Xblurb</div>
@@ -346,9 +346,9 @@ Welcome Girlies. This wiki tracks our ongoing campaign — player characters, no
 <div class="index-col">
   <div class="ic-head">World &amp; Locations</div>
   <ul>
+    <li><a href="/2.1. World Almanac/World Map">World Map</a></li>
     <li><a href="/2.1. World Almanac/North-West Faerun - The Sword Coast/index">World Almanac</a></li>
-    <li><a href="/X">X</a></li>
-    <li><a href="2.1. World Almanac/World Map">World Map</a></li>
+    <li><a href="/2.5. ">Gods &amp; Worship</a></li>
   </ul>
 </div>
 
@@ -357,7 +357,7 @@ Welcome Girlies. This wiki tracks our ongoing campaign — player characters, no
   <ul>
     <li><a href="/0.1. DM Screen/Session Journals/index">Session Journals</a></li>
     <li><a href="/0.1. DM Screen/house-rules">House Rules</a></li>
-    <li><a href="/X">X</a></li>
+    <li><a href="/0.1. DM Screen/Active Quests">Active Quests</a></li>
   </ul>
 </div>
 

@@ -282,7 +282,7 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | Stealth | Dex | ✦ | +5 |
 > | Survival | Wis | ✦ | +2 |
 
-> [!note]- Class Traits and Abilities
+> [!note]-  Features & Class Traits
 > test
 
 ## Combat and Actions
@@ -297,6 +297,8 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | Temporary Hit Points | — |
 > | Hit Dice | 5d10 |
 > | Proficiency Bonus | +3 |
+> | Superiority Dice | 4d8 |
+> | Maneuver Save DC | 15 |
 
 > [!note]- Attacks
 > | Name | Attack Bonus | Damage / Type | Range |
@@ -305,19 +307,13 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | | | | |
 > | | | | |
 
-> [!note]- Spell Slots 
-> | Rank | Slot Total | Known Spells | 
->  |---|:---:|:---:| 
->  | Cantrips (Rank 0) | ∞✦ | |
->  | 1st | ○ ○ ○ ○ | |
-> | 2nd | ○ ○ ○ | |
-> | 3rd | ○ ○ ○ | |
-> | 4th | ○ ○ ○ | |
-> | 5th | ○ ○ | |
-> | 6th | ○ | |
-> | 7th | ○ | |
-> | 8th | ○ | |
-> | 9th | ○ | |
+> [!note]- Battlemaster Maneuvers 
+> | Maneuvers | Superiority Dice: 4d8 <***> Maneuver Save DC: 15 | 
+>  |---|---|
+>  | Disarming Impact | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to disarm a target, forcing it to drop one item of your choice it is holding. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw.** |
+>  | Precision Strike | Before or after you make a proficient weapon attack roll against an enemy, you can expend one one Superiority Die to enhance your precision.  <br>**Add one Superiority Die to the attack & damage roll.** |
+> | Pushing Attack | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to drive the target back. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw or be pushed 2sq away from you.** |
+
 
 **<u>Ability</u>**: This is an ability.
 
