@@ -1,5 +1,5 @@
 ---
-title: "Save Butterskull Ranch"
+title: <%tp.file.title%>
 draft: false
 tags:
   -
@@ -344,39 +344,40 @@ tags:
 
 <div class="quest-plate">
   <div class="qp-title">
-    <h1>Warn Umbrage Hill</h1>
-    <div class="qp-sub">Found on the Notice Board in Phandalin</div>
+    <h1>Quest Name</h1>
+    <div class="qp-sub">Subtitle Quest name</div>
   </div>
-  <div class="qp-status complete">Completed</div> 
-<!-- qp-status complete | qp-status | qp-status failed -->
+  <div class="qp-status">In Progress</div> 
+<!-- qp-status success | qp-status | qp-status failed -->
 </div>
 
 <div class="quest-meta">
-  <div class="meta-cell"><span class="m-label">Quest Giver</span><span class="m-value">Harbin Wester</span></div>
-  <div class="meta-cell"><span class="m-label">Location</span><span class="m-value">Phandalin</span></div>
-  <div class="meta-cell"><span class="m-label">Started</span><span class="m-value">Session 3</span></div>
+  <div class="meta-cell"><span class="m-label">Quest Giver</span><span class="m-value">[[NPC Name]]</span></div>
+  <div class="meta-cell"><span class="m-label">Location</span><span class="m-value">[[Location Name]]</span></div>
+  <div class="meta-cell"><span class="m-label">Started</span><span class="m-value">Session 12</span></div>
 </div>
 
 ## Description
 
 <div class="quest-blurb">
 <span class="qb-label">Current Status</span>
-Orcs have attacked Butterskull Ranch, five miles east of Conyberry along the Triboar Trail! Travel there with haste, assess the damage, and help any way you can. Alfonse Kalazorn, the ranch owner, is a retired sheriff who can reward you for your efforts. If he's dead, return to Townmaster Harbin Wester with proof of Kalazorn's demise to receive a reward of 100 gp.
+Write or update the quest blurb here as things progress — this is the one section meant to be rewritten in place rather than appended to, so it always reflects where things currently stand.
 </div>
 
 ## Objectives
 
 <ul class="quest-objectives">
-  <li><input type="checkbox" checked> <span>Make contact with Adabra Gwynn</span></li>
-  <li><input type="checkbox" checked> <span>Deal with the Manticore</span></li>
-  <li><input type="checkbox" checked> <span>Attempt to bring Adabra Gwynn back to Phandalin</span></li>
-
+  <li><input type="checkbox" checked> <span>Reach Greenest and assess the situation</span></li>
+  <li><input type="checkbox" checked> <span>Rescue townsfolk trapped in the mill</span></li>
+  <li><input type="checkbox"> <span>Report to Governor Nighthill</span></li>
+  <li class="failed"><input type="checkbox"> <span>Capture a cult raider before they could flee</span></li>
+  <li><input type="checkbox"> <span>Discover what the Cult of the Dragon is searching for beneath the town</span></li>
 </ul>
 
 ---
 
 > [!success]+ ***Quest Outcome***
-> You weren't able to return Adabra back to Phandalin, but you saved her from a starving Manticore and unlocked a source of potions of healing!
+> *Fill this in once the quest concludes — what was achieved, what was lost, and any consequences that carry forward into the rest of the campaign.*
 
 ## Notes
 

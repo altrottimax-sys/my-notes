@@ -361,8 +361,6 @@ From there Cuntita sought a cover for herself, an escape from her crimes (from h
 
 ## Story Updates
 
-*As the campaign progresses, log major character-relevant beats here — not a full session recap, just what matters to **this character's** ongoing story.*
-
 <div class="ms-timeline">
 
 <div class="timeline-entry">

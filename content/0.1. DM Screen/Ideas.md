@@ -11,7 +11,6 @@ https://www.realmshelps.net/charbuild/classes/prestige/general/conharrier.shtml
 
 https://www.realmshelps.net/charbuild/classes/prestige/prestige_classes.shtml
 
-
 rogue traits for anne
 https://2e.aonprd.com/Feats.aspx?Traits=139
 https://2e.aonprd.com/Archetypes.aspx?ID=282
@@ -33,3 +32,7 @@ colours:
 
 7deadlysins/espada numbers for "shardbearers" of dragons (one for each attribute)
 8 gates or 6 paths of pain for densaang
+
+the ancient dragon slayer blade (which will break after killing cryovain also known as Krahjotdaan
+
+in 1-2 weeks time Elsaangra's identity to her church will be revealed and they will set out to capture her. definitely still Sharran influence, but i need to tie it in better to the story, 

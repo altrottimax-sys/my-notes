@@ -306,12 +306,12 @@ This page documents Petitearena's Journey. Some details may change as the story 
 > | | | | |
 
 > [!note]- Spell Slots 
-> | Rank | Slot Total | Known Spells | 
+> | Rank | Slot Total | <a href="/0.1. DM Screen/!House Rules/P_Spellbook">Known Spells</a> | 
 >  |---|:---:|:---:| 
->  | Cantrips (Rank 0) | ∞✦ | |
->  | 1st | ✦✦✦✦ | |
-> | 2nd | ✦✦✦ | |
-> | 3rd | ✦✦ ○ | |
+>  | Cantrips (Rank 0) | ∞✦ | Chill Touch ~ Mage Hand ~ Shocking Grasp ~ Thunderclap |
+>  | 1st | ✦✦✦✦ | Burning Hands ~ Charm Person ~ Comprehend Language ~ Detect Magic ~ Identify ~ Mage Armour ~ Magic Missile ~ Shield ~ Sleep |
+> | 2nd | ✦✦✦ | Blur ~ Hold Person ~ Magic Weapon ~ Spider Climb |
+> | 3rd | ✦✦ ○ | Fireball ~ Lightning Bolt ~ Slow ~ Tiny Servant |
 > | 4th | ○ ○ ○ | |
 > | 5th | ○ ○ | |
 > | 6th | ○ | |

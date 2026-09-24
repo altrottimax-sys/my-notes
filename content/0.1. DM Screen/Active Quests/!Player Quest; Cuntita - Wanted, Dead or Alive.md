@@ -1,5 +1,5 @@
 ---
-title: "Save Butterskull Ranch"
+title: "!Player Quest; Cuntita"
 draft: false
 tags:
   -
@@ -344,39 +344,38 @@ tags:
 
 <div class="quest-plate">
   <div class="qp-title">
-    <h1>Warn Umbrage Hill</h1>
-    <div class="qp-sub">Found on the Notice Board in Phandalin</div>
+    <h1>Wanted, Dead or Alive</h1>
+    <div class="qp-sub">X</div>
   </div>
-  <div class="qp-status complete">Completed</div> 
+  <div class="qp-status">In Progress</div> 
 <!-- qp-status complete | qp-status | qp-status failed -->
 </div>
 
 <div class="quest-meta">
-  <div class="meta-cell"><span class="m-label">Quest Giver</span><span class="m-value">Harbin Wester</span></div>
-  <div class="meta-cell"><span class="m-label">Location</span><span class="m-value">Phandalin</span></div>
-  <div class="meta-cell"><span class="m-label">Started</span><span class="m-value">Session 3</span></div>
+  <div class="meta-cell"><span class="m-label">Quest Giver</span><span class="m-value">X</span></div>
+  <div class="meta-cell"><span class="m-label">Location</span><span class="m-value">X</span></div>
+  <div class="meta-cell"><span class="m-label">Started</span><span class="m-value">Session 1</span></div>
 </div>
 
 ## Description
 
 <div class="quest-blurb">
 <span class="qb-label">Current Status</span>
-Orcs have attacked Butterskull Ranch, five miles east of Conyberry along the Triboar Trail! Travel there with haste, assess the damage, and help any way you can. Alfonse Kalazorn, the ranch owner, is a retired sheriff who can reward you for your efforts. If he's dead, return to Townmaster Harbin Wester with proof of Kalazorn's demise to receive a reward of 100 gp.
+X
 </div>
 
 ## Objectives
 
 <ul class="quest-objectives">
-  <li><input type="checkbox" checked> <span>Make contact with Adabra Gwynn</span></li>
-  <li><input type="checkbox" checked> <span>Deal with the Manticore</span></li>
-  <li><input type="checkbox" checked> <span>Attempt to bring Adabra Gwynn back to Phandalin</span></li>
+  <li><input type="checkbox"> X </li>
+
 
 </ul>
 
 ---
 
-> [!success]+ ***Quest Outcome***
-> You weren't able to return Adabra back to Phandalin, but you saved her from a starving Manticore and unlocked a source of potions of healing!
+> [!note]+ ***Quest Outcome***
+> You haven't finished this quest yet.
 
 ## Notes
 
