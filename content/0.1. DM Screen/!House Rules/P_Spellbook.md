@@ -383,7 +383,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Magic Missile</div>
+    <div class="sc-name">Magic Missile (Bang Bang)</div>
     <div class="sc-tag">1st-Level Evocation</div>
   </div>
   <div class="sc-body">
