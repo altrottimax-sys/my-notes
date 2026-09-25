@@ -340,7 +340,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 > [!note]- 1st Level
 > | Prepared | Spell | School | Casting Time | Range | Duration |
 > |:---:|---|---|:---:|:---:|:---:|
-> | <input type="checkbox" class="prep-check" checked> | Magic Missile | Evocation | 1 action | 120 ft | Instantaneous |
+> | <input type="checkbox" class="prep-check" checked> | Magic Missile (bang bang) | Evocation | 1 action | 120 ft | Instantaneous |
 > | <input type="checkbox" class="prep-check" checked> | Shield | Abjuration | 1 reaction | Self | 1 round |
 > | <input type="checkbox" class="prep-check"> | Detect Magic | Divination | 1 action | Self | Concentration, up to 10 minutes |
 
