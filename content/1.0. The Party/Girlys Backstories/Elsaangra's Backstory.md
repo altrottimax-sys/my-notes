@@ -323,7 +323,7 @@ This page holds the backstory and ongoing narrative for Elsaangra. It's a living
 
 <div class="bio-image left" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Elsaangra.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="P1_Elsaangra.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">Character Name, before everything changed</div>
 </div>
@@ -338,7 +338,7 @@ However, the more she learned, the more she feels constrained by the rigid doctr
 
 <div class="bio-image right" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Elsaangra.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="P2_Elsaangra.JPG" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">Character Name, before everything changed</div>
 </div>

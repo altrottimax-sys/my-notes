@@ -224,7 +224,7 @@ height: 100%;
 <div class="ms-infobox">
   <div class="ib-header">Petitearena Genesis</div>
   <div class="ib-photo">
-  <img src="Z_Assets/Girlies/Petitearena.jpeg" alt="Portrait of Character Name">
+  <img src="Z_Assets/Girlies/CharSheet_P.JPG"  alt="Portrait of Petitearena">
   </div>
   <div class="ib-sub">Holder of the Oghma Infinium</div>
   <table>
@@ -248,10 +248,12 @@ This page documents Petitearena's Journey. Some details may change as the story 
 
 *A brief description of the character — appearance, bearing, and how they came to be.* 
 
+<a href="/1.0. The Party/Girlys Backstories/Petitearena's Backstory">More details of her background and evolving story can be found here → </a>
+
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
-> | Ability | Score | Modifier | Save Proficient | Save Modifier |
+> | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
 > | Strength | 10 | +0 | ○ | +0 |
 > | Dexterity | 14 | +2 | ○ | +2 |
@@ -261,7 +263,7 @@ This page documents Petitearena's Journey. Some details may change as the story 
 > | Charisma | 15 | +2 | ○ | +2 |
 
 > [!note]- Skills & Proficiencies
-> | Skill | Ability | Proficient | Modifier |
+> | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
 > | Acrobatics | Dex | ○ | +2 |
 > | Animal Handling | Wis | ○ | +0 |
@@ -306,16 +308,16 @@ This page documents Petitearena's Journey. Some details may change as the story 
 > | | | | |
 
 > [!note]- Spell Slots 
-> | Rank | Slot Total | <a href="/0.1. DM Screen/!House Rules/P_Spellbook">Known Spells</a> | 
+> | Rank | Slots | <a href="/0.1. DM Screen/!House Rules/P_Spellbook">Known Spells</a> | 
 >  |---|:---:|:---:| 
 >  | Cantrips (Rank 0) | ∞✦ | Chill Touch ~ Mage Hand ~ Shocking Grasp ~ Thunderclap |
 >  | 1st | ✦✦✦✦ | Burning Hands ~ Charm Person ~ Comprehend Language ~ Detect Magic ~ Identify ~ Mage Armour ~ Magic Missile ~ Shield ~ Sleep |
 > | 2nd | ✦✦✦ | Blur ~ Hold Person ~ Magic Weapon ~ Spider Climb |
-> | 3rd | ✦✦ ○ | Fireball ~ Lightning Bolt ~ Slow ~ Tiny Servant |
-> | 4th | ○ ○ ○ | |
-> | 5th | ○ ○ | |
-> | 6th | ○ | |
-> | 7th | ○ | |
+> | 3rd | ✦✦○ | Fireball ~ Lightning Bolt ~ Slow ~ Tiny Servant |
+> | 4th | ○○○ | |
+> | 5th | ○○○ | |
+> | 6th | ○○ | |
+> | 7th | ○○ | |
 > | 8th | ○ | |
 > | 9th | ○ | |
 

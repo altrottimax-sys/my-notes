@@ -224,7 +224,7 @@ height: 100%;
 <div class="ms-infobox">
   <div class="ib-header">Cuntita the Criminal</div>
   <div class="ib-photo">
-    <img src="Z_Assets/Girlies/Cuntita.jpeg" alt="Portrait of Character Name">
+    <img src="Z_Assets/Girlies/CharSheet_C.JPG" alt="Portrait of Cuntita">
   </div>
   <div class="ib-sub">Former captain of a Zhentarim squad</div>
   <table>
@@ -248,10 +248,12 @@ This page documents Cuntita's journey. Some details may change as the story of t
 
 *A brief description of the character — appearance, bearing, and how they came to be.*
 
+<a href="/1.0. The Party/Girlys Backstories/Cuntita's Backstory">More details of her background and evolving story can be found here → </a>
+
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
-> | Ability | Score | Modifier | Save Proficient | Save Modifier |
+> | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
 > | Strength | 19 | +4 | ✦ | +7 |
 > | Dexterity | 14 | +2 | ○ | +2 |
@@ -261,7 +263,7 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | Charisma | 10 | +0 | ○ | +0 |
 
 > [!note]- Skills & Proficiencies
-> | Skill | Ability | Proficient | Modifier |
+> | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
 > | Acrobatics | Dex | ○ | +2 |
 > | Animal Handling | Wis | ○ | -1 |
@@ -282,7 +284,7 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | Stealth | Dex | ✦ | +5 |
 > | Survival | Wis | ✦ | +2 |
 
-> [!note]-  Features & Class Traits
+> [!note]-  Features & Traits
 > test
 
 ## Combat and Actions
@@ -301,11 +303,12 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | Maneuver Save DC | 15 |
 
 > [!note]- Attacks
-> | Name | Attack Bonus | Damage / Type | Range |
+> | Name | Attack Bonus | Damage / Type | Notes |
 > |---|:---:|---|:---:|
-> | | | | |
-> | | | | |
-> | | | | |
+> | <a href="/2.2. Artifacts and Items/The Dragonslayer Sword">The Dragonslayer Sword</a> | +7 | 2d6+Str+1 Sla|  +2d6 if enemy is Dragon type.|
+> | Great Axe | +7 | 1d12+Str Sla| |
+> | Great Club +1 | +6 | 1d8+Str Blg| |
+> | Crossbow | +5 | 1d8+Str Prc| |
 
 > [!note]- Battlemaster Maneuvers 
 > | Maneuvers | Superiority Dice: 4d8 <***> Maneuver Save DC: 15 | 
@@ -315,7 +318,23 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > | Pushing Attack | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to drive the target back. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw or be pushed 2sq away from you.** |
 
 
-**<u>Ability</u>**: This is an ability.
+**<u>Fighter - Action Surge</u>**: On your turn, you can take ***one additional action*** on top of your regular action. Once you use this ability, you must ***finish a short rest*** before you can use it again. <br>
+Uses: ✦
+
+**<u>Fighter - Second Wind</u>**: You can use a ***bonus action*** to ***regain hitpoints*** equal to 1d10 + your Fighter level. Once you use this ability, you must ***finish a short rest*** before you can use it again <br>
+Uses: ✦
+
+**<u>Fighter - Extra Attack</u>**: You can ***attack twice***, instead of once, when you take the Attack action on your turn. You may use this ability ***once per round***. <br>
+Uses: ✦
+
+**<u>Fighter - Great Weapon Fighting</u>**: When you ***roll a 1 or 2 on damage*** dice for an attack with a melee weapon with the two-handed or versatile property, ***you can reroll the die but must use the new roll***, even if it is a 1 or a 2. <br>
+Uses: **∞**
+
+**<u>Orc - Relentless Endurance</u>**: When you are reduced to 0HP, you can ***drop to 1HP instead***. Once you use this ability, you must ***finish a long rest*** before you can use it again.  <br>
+Uses: ✦
+
+**<u>Orc - Savage Attacks</u>**: When you score a ***critical hit*** with a melee weapon attack, you can roll an ***additional damage die*** and add it to the ***extra damage of the critical hit***.  <br>
+Uses: **∞**
 
 ## Equipment
 

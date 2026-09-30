@@ -224,7 +224,7 @@ height: 100%;
 <div class="ms-infobox">
   <div class="ib-header">Elsaangra Nyssan</div>
   <div class="ib-photo">
-    <img src="Z_Assets/Girlies/Elsaangra.jpeg" alt="Portrait of Character Name">
+    <img src="Z_Assets/Girlies/CharSheet_E.JPG" alt="Portrait of Elsaangra">
   </div>
   <div class="ib-sub">Sehanine's runaway thief</div>
   <table>
@@ -248,10 +248,12 @@ This page documents Elsaangra's Journey. Some details may change as the story of
 
 *A brief description of the character — appearance, bearing, and how they came to be.*
 
+<a href="/1.0. The Party/Girlys Backstories/Elsaangra's Backstory">More details of her background and evolving story can be found here → </a>
+
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
-> | Ability | Score | Modifier | Save Proficient | Save Modifier |
+> | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
 > | Strength | 9 | -1 | ○ | -1 |
 > | Dexterity | 17 | +3 | ✦ | +6 |
@@ -261,7 +263,7 @@ This page documents Elsaangra's Journey. Some details may change as the story of
 > | Charisma | 15 | +2 | ○ | +2 |
 
 > [!note]- Skills & Proficiencies
-> | Skill | Ability | Proficient | Modifier |
+> | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
 > | Acrobatics | Dex | ○ | +3 |
 > | Animal Handling | Wis | ○ | -1 |
@@ -309,13 +311,13 @@ This page documents Elsaangra's Journey. Some details may change as the story of
 > | Rank | Slot Total | Known Spells | 
 >  |---|:---:|:---:| 
 >  | Cantrips (Rank 0) | ∞✦ | |
->  | 1st | ○ ○ ○ ○ | |
-> | 2nd | ○ ○ ○ | |
-> | 3rd | ○ ○ ○ | |
-> | 4th | ○ ○ ○ | |
-> | 5th | ○ ○ | |
-> | 6th | ○ | |
-> | 7th | ○ | |
+>  | 1st | ○○○○ | |
+> | 2nd | ○○○ | |
+> | 3rd | ○○○ | |
+> | 4th | ○○○ | |
+> | 5th | ○○○ | |
+> | 6th | ○○ | |
+> | 7th | ○○ | |
 > | 8th | ○ | |
 > | 9th | ○ | |
 

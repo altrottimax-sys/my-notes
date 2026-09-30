@@ -224,7 +224,7 @@ height: 100%;
 <div class="ms-infobox">
   <div class="ib-header">Zaenerys Alagondar</div>
   <div class="ib-photo">
-    <img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="Portrait of Zaenerys">
+    <img src="Z_Assets/Girlies/CharSheet_Z.JPG" alt="Portrait of Zaenerys">
   </div>
   <div class="ib-sub">Lost Princess of Neverwinter</div>
   <table>
@@ -248,10 +248,12 @@ This page documents Zaenerys' journey. Some details may change as the story of h
 
 *A brief description of the character — appearance, bearing, and how they came to be.*
 
+<a href="/1.0. The Party/Girlys Backstories/Zaenerys's Backstory">More details of her background and evolving story can be found here → </a>
+
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
-> | Ability | Score | Modifier | Save Proficient | Save Modifier |
+> | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
 > | Strength | 10 | +0 | ✦ | +3 |
 > | Dexterity | 16 | +3 | ✦ | +6 |
@@ -261,7 +263,7 @@ This page documents Zaenerys' journey. Some details may change as the story of h
 > | Charisma | 11 | +0 | ○ | +0 |
 
 > [!note]- Skills & Proficiencies
-> | Skill | Ability | Proficient | Modifier |
+> | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
 > | Acrobatics | Dex | ○ | +3 |
 > | Animal Handling | Wis | ✦ | +6 |
@@ -310,12 +312,12 @@ This page documents Zaenerys' journey. Some details may change as the story of h
 >  |---|:---:|:---:| 
 >  | Cantrips (Rank 0) | ∞✦ | |
 >  | 1st | ✦✦✦✦ | |
-> | 2nd | ✦✦ ○ | |
-> | 3rd | ○ ○ ○ | |
-> | 4th | ○ ○ ○ | |
-> | 5th | ○ ○ | |
-> | 6th | ○ | |
-> | 7th | ○ | |
+> | 2nd | ✦✦○ | |
+> | 3rd | ○○○ | |
+> | 4th | ○○○ | |
+> | 5th | ○○○ | |
+> | 6th | ○○ | |
+> | 7th | ○○ | |
 > | 8th | ○ | |
 > | 9th | ○ | |
 

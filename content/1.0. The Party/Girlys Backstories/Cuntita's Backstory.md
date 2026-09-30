@@ -323,7 +323,7 @@ This page holds the backstory and ongoing narrative for Cuntita. It's a living d
 
 <div class="bio-image left" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Z_Assets/Girlies/Cuntita.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="Z_Assets/Girlies/P1_Cuntita.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">Character Name, before everything changed</div>
 </div>
@@ -338,7 +338,7 @@ When Cuntita was just ten years old, her family fell victim to an elaborate ploy
 
 <div class="bio-image right" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Z_Assets/Girlies/Cuntita.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="Z_Assets/Girlies/P2_Cuntita.JPG" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">The night that set them on this path</div>
 </div>

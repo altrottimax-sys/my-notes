@@ -323,7 +323,7 @@ This page holds the backstory and ongoing narrative for Petitearena. It's a livi
 
 <div class="bio-image left" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Petitearena.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="P1_Petitearena.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">Character Name, before everything changed</div>
 </div>
@@ -338,7 +338,7 @@ In the Grand Library of the Spellguard, Petitearena discovered an old tome, boun
 
 <div class="bio-image right" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Petitearena.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="P2_Petitearena.JPG" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">The night that set them on this path</div>
 </div>

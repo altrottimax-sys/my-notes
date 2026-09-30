@@ -294,27 +294,27 @@ Welcome Girlies. This wiki tracks our ongoing campaign — player characters, no
 <div class="ms-spotlight-grid">
 
 <div class="spotlight-card">
-  <div class="sc-image"><img src="Z_Assets/Girlies/Zaenaerys.jpeg" alt="The raid on Greenest"></div>
+  <div class="sc-image"><img src="FrontPage_FirstCard.jpg"></div>
   <div class="sc-tag">Latest Recap</div>
   <div class="sc-title">Sessions 6-10</div>
-  <div class="sc-blurb">Xblurb</div>
+  <div class="sc-blurb"> Study and prepare to find out who will come out on top of the 2nd Anniversary Girlies DnD Kahoot!</div>
   <div class="sc-link"><a href="/0.1. DM Screen/Session Journals/Recap of Sessions 6-10">Read the Recap →</a></div>
 </div>
 
 <div class="spotlight-card">
-  <div class="sc-image"></div>
+  <div class="sc-image"><img src="FrontPage_SecondCard.jpg"></div>
   <div class="sc-tag">Clean, Improved and Pretty!</div>
   <div class="sc-title">New Character Sheets</div>
-  <div class="sc-blurb">Xblurb</div>
+  <div class="sc-blurb">Check out the new sheets, complete with all Class and Player information; I've tried to make these as functional as possible for use during the game! Let me know if there's anything else I should be adding :)</div>
   <div class="sc-link"><a href="/1.0. The Party/index">Visit the Girlies →</a></div>
 </div>
 
 <div class="spotlight-card">
-  <div class="sc-image"></div>
+  <div class="sc-image"><img src="FrontPage_ThirdCard.jpg"></div>
   <div class="sc-tag">X Tag</div>
   <div class="sc-title">X Title</div>
   <div class="sc-blurb">X Blurb</div>
-  <div class="sc-link"><a href="/npcs/leosin-erlanthar">View NPC Entry →</a></div>
+  <div class="sc-link"><a href="/npcs/leosin-erlanthar">View X →</a></div>
 </div>
 
 </div>
@@ -348,7 +348,7 @@ Welcome Girlies. This wiki tracks our ongoing campaign — player characters, no
   <ul>
     <li><a href="/2.1. World Almanac/World Map">World Map</a></li>
     <li><a href="/2.1. World Almanac/North-West Faerun - The Sword Coast/index">World Almanac</a></li>
-    <li><a href="/2.5. ">Gods &amp; Worship</a></li>
+    <li><a href="/2.5. Gods and Worship/index">Gods &amp; Worship</a></li>
   </ul>
 </div>
 

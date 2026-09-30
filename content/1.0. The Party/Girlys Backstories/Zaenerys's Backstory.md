@@ -323,7 +323,7 @@ This page holds the backstory and ongoing narrative for Zaenerys. It's a living 
 
 <div class="bio-image left" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Zaenaerys.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="P1_Zaenerys.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">Character Name, before everything changed</div>
 </div>
@@ -340,7 +340,7 @@ Her parents did not speak much of the cadet branch of their royal lineage, but s
 
 <div class="bio-image right" style="width: auto;">
   <div class="bi-frame" style="height: 360px; width: auto;">
-    <img src="Zaenaerys.jpeg" alt="description" style="width: auto; height: 100%; object-fit: initial;">
+    <img src="P2_Zaenerys.JPG" alt="description" style="width: auto; height: 100%; object-fit: initial;">
   </div>
   <div class="bi-caption">The night that set them on this path</div>
 </div>

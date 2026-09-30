@@ -313,9 +313,7 @@ They killed the Anchorite, and 2 of the girlies went upstairs to stare into the 
 
 The girls then travelled to the Dragon Barrow, where they discovered that the entire hill had been constructed over the skeleton of a massive three-headed dragon. The dragon was apparently an important symbol of the Alagondar Royal Family.
 
-Inside the barrow they found a poem etched directly into bone, titled "Elegy for the First World."
-
-They didn't really have time or want to sit around contemplating its meaning cause it is like way too long and is being edited atm to be nice and short, however, because by walking through an invisible wall they accidentally discovered a secret Dragon Cult base.
+Inside the barrow they found a poem etched directly into bone, titled "Elegy for the First World." They didn't really have time or want to sit around contemplating its meaning cause it is like way too long and is being edited atm to be nice and short, however, because by walking through an invisible wall they accidentally discovered a secret Dragon Cult base.
 
 The girls proceeded to sneak through the Dragon Cult base, Mission Impossible style, silently taking out cultists one by one. One particular favourite method involved dunking Dragon Cultists into cauldrons filled with alchemically-altered dragon blood and watching them melt. They loved doing it so much they tried again at the end of this recap.
 
@@ -347,9 +345,7 @@ They also learned more about the mysterious "Dark Spirit" that had attacked the 
 
 The girls travelled to Leilon and immediately made their way to the library, where they began researching the Dragon Cult and everything else they had encountered.
 
-There they found an image depicting a trifecta of Dragon Gods and also a nice recipe. They only knew the identities of two.
-
-Petitearena also learned about her book was called the Oghma Infinium.
+There they found an image depicting a trifecta of Dragon Gods and also a nice recipe. They only knew the identities of two. Petitearena also learned about her book was called the Oghma Infinium.
 
 Then Cryovain attacked Leilon, and the girlies took the chance to test their mettle and fought it off, saving the town from destruction most likely.
 
@@ -357,8 +353,7 @@ Before they left the girls also learned about a mysterious Shaman living somewhe
 
 With yet another mystery added to the pile, the girls finally made their way towards Neverwinter.
 
-Along the way they encountered the Flower Knight once again. Having previously crossed paths with this strange knight, the girls had already learned a little about it. 
-It was hanging around a group of civilians moving towards Neverwinter.
+Along the way they encountered the Flower Knight once again. Having previously crossed paths with this strange knight, the girls had already learned a little about it. It was hanging around a group of civilians moving towards Neverwinter.
 
 Suddenly a group of tribal orcs emerged from the forest along the road.
 
@@ -366,9 +361,7 @@ It seemed that the Flower Knight had too learnt from the girlies; The girls and 
 
 The tribal orcs were massacred.
 
-These orcs were starving. They were emaciated and barely surviving, posing no threat and begging for some food. 
-
-So the girlies moved on from that and took the newly dubbed "Rusty"  towards Neverwinter.
+These orcs were starving. They were emaciated and barely surviving, posing no threat and begging for some food. So the girlies moved on from that and took the newly dubbed "Rusty"  towards Neverwinter.
 
 Eventually the girls arrived at the Sword Gate of Neverwinter, where they were stopped by the guards and informed that they would need to purchase a licence to enter the city. Surrounding the gate were prisoner carts waiting to enter Neverwinter, providing an ominous glimpse into the city's recently established prison trade. Following the Baldur's Gate Crisis, Neverwinter had begun taking prisoners and using them as labour to help rebuild the city from the Civil War and Eruption of Mount Hotenow, in preparation for any attacks from the Pirate Republic of Luskan. Refugees from Phandalin were also gathered outside the gates.
 
@@ -386,11 +379,9 @@ When they inspected the bodies, they discovered something deeply disturbing. The
 
 Dobby explained that these beasts seemed to be becoming more and more common every day, although nobody seemed to know where they were coming from. The girls also discovered a note suggesting that a certain mage was working alongside the Dragon Cult to create these experiments; Another mystery.
 
-Finally, the girls made it into Neverwinter proper. the first thing they did was find a tavern and get themselves some Aboba tea.
+Finally, the girls made it into Neverwinter proper. the first thing they did was find a tavern and get themselves some Aboba tea. The tea helped clear their mind and relax, which made them realise something
 
-once they got the girls split up.
-
-Two went back to loot the bodies (which they had forgotten), while the other two went shopping at the Pauper's Market. The looting expedition proved surprisingly fruitful. They found a strange ring, a dragon-shaped charm and a key. Zaenerys had a full-on Byakugan Naruto moment too.
+Two girlies immediately went back to loot the bodies (which they had forgotten), while the other two went shopping at the Pauper's Market (cause they looooove shopping). The looting expedition proved surprisingly fruitful. They found a strange ring, a dragon-shaped charm and a key. Zaenerys had a full-on Byakugan Naruto moment too.
 
 Meanwhile, the shopping crew met Zaramush, the local blacksmith, who offered to create some new and exciting items and upgrade some of their existing equipment.
 
