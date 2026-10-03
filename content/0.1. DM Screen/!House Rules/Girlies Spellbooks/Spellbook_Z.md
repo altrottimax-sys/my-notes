@@ -1,5 +1,5 @@
 ---
-title: Petitearena's Spellbook
+title: Zaenerys' Spellbook
 tags:
 description:
 ---
@@ -436,17 +436,17 @@ description:
 
 <div class="spell-plate">
   <div class="sp-title">
-    <h1>Petitearena's Spellbook</h1>
-    <div class="sp-sub">The only legible writings found within the Oghma Infinium, pencilled by the wizard Petitearena Genesis herself.</div>
+    <h1>Zaenerys's Spellbook</h1>
+    <div class="sp-sub">As the Dragonkin Curse corrupts and transforms her blood, Zaenerys' magical prowess grows.</div>
   </div>
-  <div class="sp-sigil">✦</div>
+  <div class="sp-sigil">ཐི༏ཋྀ</div>
 </div>
 
 <div class="caster-meta">
-  <div class="meta-cell"><span class="m-label">Spellcasting Ability</span><span class="m-value">Intelligence</span></div>
+  <div class="meta-cell"><span class="m-label">Spellcasting Ability</span><span class="m-value">Wisdom</span></div>
   <div class="meta-cell"><span class="m-label">Spell Save DC</span><span class="m-value">14</span></div>
   <div class="meta-cell"><span class="m-label">Spell Attack Bonus</span><span class="m-value">+6</span></div>
-  <div class="meta-cell"><span class="m-label">Spells Preparation Limit</span><span class="m-value">8</span></div>
+  <div class="meta-cell"><span class="m-label">X</span><span class="m-value">X</span></div>
 </div>
 
 <div class="ms-notice">
@@ -474,11 +474,11 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
   <div class="slot-pip-cell">
     <input type="checkbox" class="prep-check">
     <input type="checkbox" class="prep-check">
-    <input type="checkbox" class="prep-check">
+    <input type="checkbox" class="prep-check unused" disabled>
   </div>
   <div class="slot-pip-cell">
-    <input type="checkbox" class="prep-check">
-    <input type="checkbox" class="prep-check">
+    <input type="checkbox" class="prep-check unused" disabled>
+    <input type="checkbox" class="prep-check unused" disabled>
     <input type="checkbox" class="prep-check unused" disabled>
   </div>
   <div class="slot-pip-cell inactive">
@@ -510,146 +510,32 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
 ## Spell List
 
-> [!note]- Cantrips
-> | Prepared | Spell | School | Casting Time | Range |
+> [!note]- 1st Rank
+> | Source | Spell | School | Casting Time | Range |
 > |:---:|---|---|:---:|:---:|
-> | <input type="checkbox" class="prep-check" checked> | Chill Touch | Necromancy | 1 action | 24sq |
-> | <input type="checkbox" class="prep-check" checked> | Mage Hand | Conjuration | 1 action | 6sq |
-> | <input type="checkbox" class="prep-check" checked> | Shocking Grasp | Evocation | 1 action | Touch |
-> | <input type="checkbox" class="prep-check" checked> | Thunderclap | Evocation | 1 action | 20sq |
+> | Ranger | Hunter's Mark | Divination | 1 action | 24sq |
+> | Ranger | Cure Wounds | Evocation | 1 action | 6sq |
+> | Primal Awareness | Speak with Animals | Divination | 1 action or ritual | Self |
 
-> [!note]- 1st Level
-> | Prepared | Spell | School | Casting Time | Range |
+
+> [!note]- 2nd Rank
+> | Source | Spell | School | Casting Time | Range |
 > |:---:|---|---|:---:|:---:|
-> | <input type="checkbox" class="prep-check" checked> | Burning Hands | Evocation | 1 action | Self (3-sq cone) |
-> | <input type="checkbox" class="prep-check"> | Charm Person | Enchantment | 1 action | 6sq |
-> | <input type="checkbox" class="prep-check"> | Comprehend Languages | Divination | 1 action | Self |
-> | <input type="checkbox" class="prep-check" checked> | Detect Magic | Divination | 1 action | Self |
-> | <input type="checkbox" class="prep-check"> | Identify | Divination | 1 minute | Touch |
-> | <input type="checkbox" class="prep-check" checked> | Mage Armor | Abjuration | 1 action | Touch |
-> | <input type="checkbox" class="prep-check" checked> | Magic Missile | Evocation | 1 action | 24sq ft |
-> | <input type="checkbox" class="prep-check"> | Shield | Abjuration | 1 reaction | Self |
-> | <input type="checkbox" class="prep-check" checked> | Sleep | Enchantment | 1 action | 18sq |
+> | Ranger | Silence | Evocation | 1 action | 20sq |
+> | Ranger | Pass Without Trace | Abjuration | 1 action | Self |
+> | Primal Awareness | Beast Sense | Divination | 1 action or ritual | Touch |
 
-> [!note]- 2nd Level
-> | Prepared | Spell | School | Casting Time | Range |
-> |:---:|---|---|:---:|:---:|
-> | <input type="checkbox" class="prep-check"> | Blur | Illusion | 1 action | Self |
-> | <input type="checkbox" class="prep-check" checked> | Hold Person | Enchantment | 1 action | 12sq |
-> | <input type="checkbox" class="prep-check" checked> | Magic Weapon | Transmutation | 1 bonus action | Touch |
-> | <input type="checkbox" class="prep-check"> | Spider Climb | Transmutation | 1 action | Touch |
-
-> [!note]- 3rd Level
-> | Prepared | Spell | School | Casting Time | Range |
-> |:---:|---|---|:---:|:---:|
-> | <input type="checkbox" class="prep-check" checked> | Fireball | Evocation | 1 action | 30sq |
-> | <input type="checkbox" class="prep-check"> | Lightning Bolt | Evocation | 1 action | Self (20sq line) |
-> | <input type="checkbox" class="prep-check"> | Slow | Transmutation | 1 action | 24sq |
-> | <input type="checkbox" class="prep-check"> | Tiny Servant | Transmutation | 1 minute | Touch |
-
----
 
 ## Spell Details
 
-*Full descriptions for every spell in the Spell List above, organized by the same tiers. Click any tier bar to expand it.*
-
-<details class="detail-tier" open>
-<summary>Cantrips<span class="tier-hint"></span></summary>
-<div class="tier-content">
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Chill Touch</div>
-    <div class="sc-tag">Necromancy Cantrip</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">18sq</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">1 round</span></div>
-  </div>
-
-  <div class="sc-desc">You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 2d8 necrotic damage, and it can't regain hit points until the start of your next turn. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.</div>
-
-  <div class="sc-higher">This spell's damage increases by 1d8 when you reach 11th level (3d8), and 17th level (4d8).</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Mage Hand</div>
-    <div class="sc-tag">Conjuration Cantrip</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">6sq</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">1 minute</span></div>
-  </div>
-
-  <div class="sc-desc">A spectral, floating hand appears at a point you choose within range. It can manipulate an object, open an unlocked door or container, stow or retrieve an item, or pour the contents of a vial. You can move the hand up to 6sq each time you use it. The hand can't attack, activate magic items, or carry more than 10 units/brambleplinths.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Shocking Grasp</div>
-    <div class="sc-tag">Evocation Cantrip</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Touch</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
-  </div>
-
-  <div class="sc-desc">Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target — you have advantage if the target is wearing armour made of metal. On a hit, the target takes 2d8 lightning damage and can't take reactions until the start of its next turn.</div>
-
-  <div class="sc-higher">This spell's damage increases by 1d8 when you reach 11th level (3d8), and 17th level (4d8).</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Thunderclap</div>
-    <div class="sc-tag">Evocation Cantrip</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self (20sq cube)</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
-  </div>
-
-  <div class="sc-desc">You create a burst of thunderous sound, which can be heard 20 squares away. Each creature within range, other than you, must make a Constitution saving throw or take 2d6 thunder damage..</div>
-
-  <div class="sc-higher">This spell's damage increases by 1d6 when you reach 11th level (3d6), and 17th level (4d6).</div>
-
-  </div>
-</div>
-
-</div>
-</details>
-
 <details class="detail-tier">
-<summary>1st Level<span class="tier-hint"></span></summary>
+<summary>1st Rank<span class="tier-hint"></span></summary>
 <div class="tier-content">
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Burning Hands</div>
-    <div class="sc-tag">1st-Level Evocation</div>
+    <div class="sc-name">Hunter's</div>
+    <div class="sc-tag">1st-Rank Divination</div>
   </div>
   <div class="sc-body">
 
@@ -707,125 +593,6 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
   </div>
 </div>
 
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Detect Magic</div>
-    <div class="sc-tag">1st-Level Divination (Ritual)</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 10 minutes</span></div>
-  </div>
-
-  <div class="sc-desc">For the duration, you sense the presence of magic within 6 squares. If you sense magic, you can use your action to see a faint aura around any visible creature or object that bears it, revealing its school of magic if it's not blocked by lead or a thick wall of wood or dirt.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Identify</div>
-    <div class="sc-tag">1st-Level Divination (Ritual)</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 minute</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Touch</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
-  </div>
-
-  <div class="sc-desc">You choose one object you touch throughout the casting. If it's a magic item, you learn its properties, how to use them, whether it requires attunement, and how many charges it has. You learn whether any spells are affecting the item, and if it was created by a spell, which one.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Mage Armor</div>
-    <div class="sc-tag">1st-Level Abjuration</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Touch</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">8 hours</span></div>
-  </div>
-
-  <div class="sc-desc">You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends early if the target dons armor or if you dismiss it as an action.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Magic Missile (Bang Bang)</div>
-    <div class="sc-tag">1st-Level Evocation</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">18sq</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
-  </div>
-
-  <div class="sc-desc">You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4+1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.</div>
-
-  <div class="sc-higher">When you cast this spell using a spell slot level above 1st, the spell creates one more dart for each additional slot level.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Shield</div>
-    <div class="sc-tag">1st-Level Abjuration</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 reaction</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">1 round</span></div>
-  </div>
-
-  <div class="sc-desc">An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Sleep</div>
-    <div class="sc-tag">1st-Level Enchantment</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">18sq</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">1 minute</span></div>
-  </div>
-
-  <div class="sc-desc">This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within a 4-square-radius sphere are affected in ascending order of current hit points, starting with the lowest. Affected creatures fall unconscious until the spell ends, they take damage, or someone uses an action to shake or slap them awake.</div>
-
-  <div class="sc-higher">When you cast this spell using a spell slot level above 1st, roll an additional 2d8 for each additional slot level.</div>
-
-  </div>
-</div>
-
-</div>
 </details>
 
 <details class="detail-tier">
@@ -893,121 +660,11 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
   </div>
 </div>
 
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Spider Climb</div>
-    <div class="sc-tag">2nd-Level Transmutation</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Touch</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 1 hour</span></div>
-  </div>
-
-  <div class="sc-desc">Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, leaving its hands free. The target also gains a climbing speed equal to its walking speed.</div>
-
-  </div>
-</div>
-
-</div>
 </details>
 
-<details class="detail-tier">
-<summary>3rd Level<span class="tier-hint"></span></summary>
-<div class="tier-content">
+## Spellcasting Focus
 
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Fireball</div>
-    <div class="sc-tag">3rd-Level Evocation</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">30sq</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
-  </div>
-
-  <div class="sc-desc">A bright streak flashes to a point you choose within range, then blossoms with a low roar into an explosion of flame. Each creature in a 4 square-radius sphere must make a Dexterity saving throw, taking 8d6 fire damage on a failed save, or half as much on a success. Flammable objects in the area that aren't being worn or carried begin burning.</div>
-
-  <div class="sc-higher">When you cast this spell using a spell slot level above 3rd, the damage increases by 1d6 for each slot.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Lightning Bolt</div>
-    <div class="sc-tag">3rd-Level Evocation</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self (20sq line)</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
-  </div>
-
-  <div class="sc-desc">A stroke of lightning forming a line 20 squares long and 1 square wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much on a success. The lightning ignites flammable objects in the area not being worn or carried.</div>
-
-  <div class="sc-higher">When you cast this spell using a spell slot level above 3rd, the damage increases by 1d6 for each slot.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Slow</div>
-    <div class="sc-tag">3rd-Level Transmutation</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">24sq</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 1 minute</span></div>
-  </div>
-
-  <div class="sc-desc">You alter time around up to six creatures of your choice in a 8 square cube within range. Each target must make a Wisdom saving throw. On a failed save, a target's speed is halved, it takes a -2 penalty to AC and Dexterity saves, and it can't use reactions, and on its turn it can take either an action or a bonus action, not both. At the end of each of its turns, an affected target can repeat the save, ending the effect on itself on a success.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Tiny Servant</div>
-    <div class="sc-tag">3rd-Level Transmutation</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 minute</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Touch</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">8 hours</span></div>
-  </div>
-
-  <div class="sc-desc">You animate up to two tiny, nonmagical objects, transforming each into a tiny servant that obeys your spoken commands. The servant moves as you direct it, can perform simple tasks (fetching, opening unstuck doors, carrying small items), and has statistics matching an ordinary tiny animated object, but can't attack.</div>
-
-  <div class="sc-higher">You can animate one additional object for every 2 spell slot levels above 3rd.</div>
-
-  </div>
-</div>
-
-</div>
-</details>
-
-## Spellcasting Focus &amp; Materials
-
-- **Spell Casting Focus:** Petitarena's Quarterstaff &amp; the Oghma Infinium
-- **Material Components Pouch:** 5x Silver Dust | 1x Diamond Crystals | 1x Sulfur | 
+- **Spell Casting Focus:** Zaenerys' Scaley Hand
 
 ## Notes
 
@@ -1015,7 +672,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
 ## Trivia
 
-- She loves to use finger guns for her Magic Missiles
+- 
 
 </div>
 

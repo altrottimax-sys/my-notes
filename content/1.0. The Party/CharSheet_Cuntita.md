@@ -1,5 +1,5 @@
 ---
-title: Zaenerys Alagondar
+title: Cuntita the Criminal
 draft: false
 tags:
   -
@@ -222,69 +222,69 @@ height: 100%;
 <div class="ms-page">
 
 <div class="ms-infobox">
-  <div class="ib-header">Zaenerys Alagondar</div>
+  <div class="ib-header">Cuntita the Criminal</div>
   <div class="ib-photo">
-    <img src="Z_Assets/Girlies/CharSheet_Z.JPG" alt="Portrait of Zaenerys">
+    <img src="Z_Assets/Girlies/CharSheet_C.JPG" alt="Portrait of Cuntita">
   </div>
-  <div class="ib-sub">Lost Princess of Neverwinter</div>
+  <div class="ib-sub">Former captain of a Zhentarim squad</div>
   <table>
-    <tr><th>Race</th><td>Dragon-Cursed</td></tr>
-    <tr><th>Class</th><td>Drakewarden Ranger</td></tr>
+    <tr><th>Race</th><td>Half-Orc</td></tr>
+    <tr><th>Class</th><td>Battlemaster Fighter</td></tr>
     <tr><th>Level</th><td>5</td></tr>
-    <tr><th>Background</th><td>Noble Princess</td></tr>
+    <tr><th>Background</th><td>Criminal Captain</td></tr>
     <tr><th>Proficiency Level</th><td>+3</td></tr>
-    <tr><th>Passive Insight</th><td>13</td></tr>
-    <tr><th>Passive Perception</th><td>16</td></tr>
-    <tr><th>Armour Class</th><td>15</td></tr>
-    <tr><th>Hit Points</th><td>42</td></tr>
+    <tr><th>Passive Insight</th><td>11</td></tr>
+    <tr><th>Passive Perception</th><td>9</td></tr>
+    <tr><th>Armour Class</th><td>10</td></tr>
+    <tr><th>Hit Points</th><td>50</td></tr>
   </table>
 </div>
 
 <div class="ms-notice">
-This page documents Zaenerys' journey. Some details may change as the story of her cursed blood unfolds.
+This page documents Cuntita's journey. Some details may change as the story of ţ̷͖̳̎̃̒ͦh̝̘̭̓e̠͙ͩ͛ m̶͙̤͍͒ä̶̧̟̣̜̰̫g̴̽̂͌̆͛ͫ̆ȋ̶̹̱̺̼ṣ̼̖̩̹̠ͥͫͨ̏ͯt̸̴̯͖̳̮̄ͭr̷̵̃ą̷̲͔̥̫̘̒̌̅͋̆̏̍ṱ̵̬͇̬͉ͥ̽͆̆ͥͨͅę̹̺̙̲ unfolds.
 </div>
 
 ## Character Overview
 
 *A brief description of the character — appearance, bearing, and how they came to be.*
 
-<a href="/1.0. The Party/Girlys Backstories/Zaenerys's Backstory">More details of her background and evolving story can be found here → </a>
+<a href="/1.0. The Party/Girlys Backstories/Cuntita's Backstory">More details of her background and evolving story can be found here → </a>
 
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
 > | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
-> | Strength | 10 | +0 | ✦ | +3 |
-> | Dexterity | 16 | +3 | ✦ | +6 |
-> | Constitution | 14 | +2 | ○ | +2 |
-> | Intelligence | 8 | -1 | ○ | -1 |
-> | Wisdom | 16 | +3 | ○ | +3 |
-> | Charisma | 11 | +0 | ○ | +0 |
+> | Strength | 19 | +4 | ✦ | +7 |
+> | Dexterity | 14 | +2 | ○ | +2 |
+> | Constitution | 12 | +0 | ✦ | +5 |
+> | Intelligence | 10 | +0 | ○ | +0 |
+> | Wisdom | 9 | -1 | ○ | -1 |
+> | Charisma | 10 | +0 | ○ | +0 |
 
 > [!note]- Skills & Proficiencies
 > | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
-> | Acrobatics | Dex | ○ | +3 |
-> | Animal Handling | Wis | ✦ | +6 |
-> | Arcana | Int | ○ | -1 |
-> | Athletics | Str | ○ | +3 |
-> | Deception | Cha | ○ | +0 |
-> | History | Int | ✦ | +2 |
-> | Insight | Wis | ○ | +3 |
-> | Intimidation | Cha | ○ | +0 |
-> | Investigation | Int | ○ | -1 |
-> | Medicine | Wis | ○ | +3 |
-> | Nature | Int | ○ | -1 |
-> | Perception | Wis | ✦ | +3 |
+> | Acrobatics | Dex | ○ | +2 |
+> | Animal Handling | Wis | ○ | -1 |
+> | Arcana | Int | ○ | +0 |
+> | Athletics | Str | ○ | +4 |
+> | Deception | Cha | ✦ | +3 |
+> | History | Int | ○ | +0 |
+> | Insight | Wis | ✦ | +2 |
+> | Intimidation | Cha | ✦ | +3 |
+> | Investigation | Int | ○ | +0 |
+> | Medicine | Wis | ○ | -1 |
+> | Nature | Int | ○ | +0 |
+> | Perception | Wis | ○ | -1 |
 > | Performance | Cha | ○ | +0 |
-> | Persuasion | Cha | ✦ | +3 |
-> | Religion | Int | ○ | -1 |
-> | Sleight of Hand | Dex | ○ | +3 |
-> | Stealth | Dex | ✦✦ | +9 |
-> | Survival | Wis | ○ | +3 |
+> | Persuasion | Cha | ○ | +0 |
+> | Religion | Int | ○ | +0 |
+> | Sleight of Hand | Dex | ○ | +2 |
+> | Stealth | Dex | ✦ | +5 |
+> | Survival | Wis | ✦ | +2 |
 
-> [!note]- Features & Class Traits
+> [!note]-  Features & Traits
 > test
 
 ## Combat and Actions
@@ -292,36 +292,49 @@ This page documents Zaenerys' journey. Some details may change as the story of h
 > [!note]- Combat Statistics
 > | Stat | Value |
 > |---|:---:|
-> | Initiative | +3 |
+> | Initiative | +5 (Alert) |
 > | Speed | 6sq (9m) |
-> | Armour Class | 15 |
-> | Hit Point Maximum | 42 |
+> | Armour Class | 10 |
+> | Hit Point Maximum | 50 |
 > | Temporary Hit Points | — |
 > | Hit Dice | 5d10 |
-> | Proficiency Bonus | +2 |
+> | Proficiency Bonus | +3 |
+> | Superiority Dice | 4d8 |
+> | Maneuver Save DC | 15 |
 
 > [!note]- Attacks
-> | Name | Attack Bonus | Damage / Type | Range |
-> |---|:---:|---|:---:|
-> | | | | |
-> | | | | |
-> | | | | |
+> | Name | Attack Bonus | Damage / Type | Notes |
+> |---|:---:|:---:|---|
+> | <a href="/2.2. Artifacts and Items/The Dragonslayer Sword">The Dragonslayer Sword</a> | +7 | 2d6+Str+1 Sla|  +2d6 if enemy is Dragon type.|
+> | Great Axe | +7 | 1d12+Str Sla| |
+> | Great Club +1 | +6 | 1d8+Str Blg| |
+> | Crossbow | +5 | 1d8+Str Prc| |
 
-> [!note]- Spell Slots 
-> | Rank | Slot Total | Known Spells | 
->  |---|:---:|:---:| 
->  | Cantrips (Rank 0) | ∞✦ | |
->  | 1st | ✦✦✦✦ | |
-> | 2nd | ✦✦○ | |
-> | 3rd | ○○○ | |
-> | 4th | ○○○ | |
-> | 5th | ○○○ | |
-> | 6th | ○○ | |
-> | 7th | ○○ | |
-> | 8th | ○ | |
-> | 9th | ○ | |
+> [!note]- Battlemaster Maneuvers 
+> | Maneuvers | Superiority Dice: 4d8 <***> Maneuver Save DC: 15 | 
+>  |---|---|
+>  | Disarming Impact | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to disarm a target, forcing it to drop one item of your choice it is holding. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw.** |
+>  | Precision Strike | Before or after you make a proficient weapon attack roll against an enemy, you can expend one one Superiority Die to enhance your precision.  <br>**Add one Superiority Die to the attack & damage roll.** |
+> | Pushing Attack | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to drive the target back. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw or be pushed 2sq away from you.** |
 
-**<u>Ability</u>**: This is an ability.
+
+**<u>Fighter - Action Surge</u>**: On your turn, you can take ***one additional action*** on top of your regular action. Once you use this ability, you must ***finish a short rest*** before you can use it again. <br>
+Uses: ✦
+
+**<u>Fighter - Second Wind</u>**: You can use a ***bonus action*** to ***regain hitpoints*** equal to 1d10 + your Fighter level. Once you use this ability, you must ***finish a short rest*** before you can use it again <br>
+Uses: ✦
+
+**<u>Fighter - Extra Attack</u>**: You can ***attack twice***, instead of once, when you take the Attack action on your turn. You may use this ability ***once per round***. <br>
+Uses: ✦
+
+**<u>Fighter - Great Weapon Fighting</u>**: When you ***roll a 1 or 2 on damage*** dice for an attack with a melee weapon with the two-handed or versatile property, ***you can reroll the die but must use the new roll***, even if it is a 1 or a 2. <br>
+Uses: **∞**
+
+**<u>Orc - Relentless Endurance</u>**: When you are reduced to 0HP, you can ***drop to 1HP instead***. Once you use this ability, you must ***finish a long rest*** before you can use it again.  <br>
+Uses: ✦
+
+**<u>Orc - Savage Attacks</u>**: When you score a ***critical hit*** with a melee weapon attack, you can roll an ***additional damage die*** and add it to the ***extra damage of the critical hit***.  <br>
+Uses: **∞**
 
 ## Equipment
 

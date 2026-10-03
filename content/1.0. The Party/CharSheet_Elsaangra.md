@@ -1,5 +1,5 @@
 ---
-title: Cuntita the Criminal
+title: Elsaangra Nyssan
 draft: false
 tags:
   -
@@ -222,69 +222,69 @@ height: 100%;
 <div class="ms-page">
 
 <div class="ms-infobox">
-  <div class="ib-header">Cuntita the Criminal</div>
+  <div class="ib-header">Elsaangra Nyssan</div>
   <div class="ib-photo">
-    <img src="Z_Assets/Girlies/CharSheet_C.JPG" alt="Portrait of Cuntita">
+    <img src="Z_Assets/Girlies/CharSheet_E.JPG" alt="Portrait of Elsaangra">
   </div>
-  <div class="ib-sub">Former captain of a Zhentarim squad</div>
+  <div class="ib-sub">Sehanine's runaway thief</div>
   <table>
-    <tr><th>Race</th><td>Half-Orc</td></tr>
-    <tr><th>Class</th><td>Battlemaster Fighter</td></tr>
+    <tr><th>Race</th><td>Moon Elf</td></tr>
+    <tr><th>Class</th><td>Thief Rogue</td></tr>
     <tr><th>Level</th><td>5</td></tr>
-    <tr><th>Background</th><td>Criminal Captain</td></tr>
+    <tr><th>Background</th><td>Moon Acolyte</td></tr>
     <tr><th>Proficiency Level</th><td>+3</td></tr>
-    <tr><th>Passive Insight</th><td>11</td></tr>
-    <tr><th>Passive Perception</th><td>9</td></tr>
-    <tr><th>Armour Class</th><td>10</td></tr>
-    <tr><th>Hit Points</th><td>50</td></tr>
+    <tr><th>Passive Insight</th><td>12</td></tr>
+    <tr><th>Passive Perception</th><td>12</td></tr>
+    <tr><th>Armour Class</th><td>16</td></tr>
+    <tr><th>Hit Points</th><td>37</td></tr>
   </table>
 </div>
 
 <div class="ms-notice">
-This page documents Cuntita's journey. Some details may change as the story of ţ̷͖̳̎̃̒ͦh̝̘̭̓e̠͙ͩ͛ m̶͙̤͍͒ä̶̧̟̣̜̰̫g̴̽̂͌̆͛ͫ̆ȋ̶̹̱̺̼ṣ̼̖̩̹̠ͥͫͨ̏ͯt̸̴̯͖̳̮̄ͭr̷̵̃ą̷̲͔̥̫̘̒̌̅͋̆̏̍ṱ̵̬͇̬͉ͥ̽͆̆ͥͨͅę̹̺̙̲ unfolds.
+This page documents Elsaangra's Journey. Some details may change as the story of her lunar devotion unfolds.
 </div>
 
 ## Character Overview
 
 *A brief description of the character — appearance, bearing, and how they came to be.*
 
-<a href="/1.0. The Party/Girlys Backstories/Cuntita's Backstory">More details of her background and evolving story can be found here → </a>
+<a href="/1.0. The Party/Girlys Backstories/Elsaangra's Backstory">More details of her background and evolving story can be found here → </a>
 
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
 > | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
-> | Strength | 19 | +4 | ✦ | +7 |
-> | Dexterity | 14 | +2 | ○ | +2 |
-> | Constitution | 12 | +0 | ✦ | +5 |
-> | Intelligence | 10 | +0 | ○ | +0 |
+> | Strength | 9 | -1 | ○ | -1 |
+> | Dexterity | 17 | +3 | ✦ | +6 |
+> | Constitution | 12 | +1 | ○ | +1 |
+> | Intelligence | 14 | +2 | ✦ | +5 |
 > | Wisdom | 9 | -1 | ○ | -1 |
-> | Charisma | 10 | +0 | ○ | +0 |
+> | Charisma | 15 | +2 | ○ | +2 |
 
 > [!note]- Skills & Proficiencies
 > | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
-> | Acrobatics | Dex | ○ | +2 |
+> | Acrobatics | Dex | ○ | +3 |
 > | Animal Handling | Wis | ○ | -1 |
-> | Arcana | Int | ○ | +0 |
-> | Athletics | Str | ○ | +4 |
-> | Deception | Cha | ✦ | +3 |
-> | History | Int | ○ | +0 |
+> | Arcana | Int | ○ | +2 |
+> | Athletics | Str | ✦✦ | +5 |
+> | Deception | Cha | ✦✦ | +8 |
+> | History | Int | ○ | +2 |
 > | Insight | Wis | ✦ | +2 |
-> | Intimidation | Cha | ✦ | +3 |
-> | Investigation | Int | ○ | +0 |
+> | Intimidation | Cha | ○ | +2 |
+> | Investigation | Int | ○ | +2 |
 > | Medicine | Wis | ○ | -1 |
-> | Nature | Int | ○ | +0 |
-> | Perception | Wis | ○ | -1 |
-> | Performance | Cha | ○ | +0 |
-> | Persuasion | Cha | ○ | +0 |
-> | Religion | Int | ○ | +0 |
-> | Sleight of Hand | Dex | ○ | +2 |
-> | Stealth | Dex | ✦ | +5 |
-> | Survival | Wis | ✦ | +2 |
+> | Nature | Int | ○ | +2 |
+> | Perception | Wis | ✦ | +2 |
+> | Performance | Cha | ✦ | +5 |
+> | Persuasion | Cha | ○ | +2 |
+> | Religion | Int | ○ | +2 |
+> | Sleight of Hand | Dex | ✦ | +6 |
+> | Stealth | Dex | ○ | +0 |
+> | Survival | Wis | ○ | +0 |
 
-> [!note]-  Features & Traits
+> [!note]- Features & Class Traits
 > test
 
 ## Combat and Actions
@@ -292,49 +292,37 @@ This page documents Cuntita's journey. Some details may change as the story of t
 > [!note]- Combat Statistics
 > | Stat | Value |
 > |---|:---:|
-> | Initiative | +5 (Alert) |
+> | Initiative | +3 |
 > | Speed | 6sq (9m) |
-> | Armour Class | 10 |
-> | Hit Point Maximum | 50 |
+> | Armour Class | 16 |
+> | Hit Point Maximum | 37 |
 > | Temporary Hit Points | — |
-> | Hit Dice | 5d10 |
+> | Hit Dice | 5d8 |
 > | Proficiency Bonus | +3 |
-> | Superiority Dice | 4d8 |
-> | Maneuver Save DC | 15 |
+> | Sneak Attack Extra Damage | +3d6 |
 
 > [!note]- Attacks
 > | Name | Attack Bonus | Damage / Type | Notes |
-> |---|:---:|---|:---:|
-> | <a href="/2.2. Artifacts and Items/The Dragonslayer Sword">The Dragonslayer Sword</a> | +7 | 2d6+Str+1 Sla|  +2d6 if enemy is Dragon type.|
-> | Great Axe | +7 | 1d12+Str Sla| |
-> | Great Club +1 | +6 | 1d8+Str Blg| |
-> | Crossbow | +5 | 1d8+Str Prc| |
+> |---|:---:|:---:|---|
+> | Rapier | +6 | 1d8+Dex Prc | |
+> | Shortbow | +6 | 1d6+Dex Prc | 16sq range |
+> | | | | |
 
-> [!note]- Battlemaster Maneuvers 
-> | Maneuvers | Superiority Dice: 4d8 <***> Maneuver Save DC: 15 | 
->  |---|---|
->  | Disarming Impact | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to disarm a target, forcing it to drop one item of your choice it is holding. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw.** |
->  | Precision Strike | Before or after you make a proficient weapon attack roll against an enemy, you can expend one one Superiority Die to enhance your precision.  <br>**Add one Superiority Die to the attack & damage roll.** |
-> | Pushing Attack | When you hit a enemy with a proficient weapon attack, you can expend one Superiority Die to attempt to drive the target back. <br>**Add one Superiority Die to the damage roll, and the target must make a Strength saving throw or be pushed 2sq away from you.** |
+> [!note]- Spell Slots 
+> | Rank | Slot Total | <a href="/0.1. DM Screen/!House Rules/Girlies Spellbooks/Spellbook_E">Known Spells</a> | 
+>  |---|:---:|:---:| 
+>  | Cantrips (Rank 0) | ∞✦ | Ray of Frost ~ Guidance ~ Spare the Dying |
+>  | 1st | ✦✦○○ | Bane |
+> | 2nd | ○○○ | |
+> | 3rd | ○○○ | |
+> | 4th | ○○○ | |
+> | 5th | ○○○ | |
+> | 6th | ○○ | |
+> | 7th | ○○ | |
+> | 8th | ○ | |
+> | 9th | ○ | |
 
-
-**<u>Fighter - Action Surge</u>**: On your turn, you can take ***one additional action*** on top of your regular action. Once you use this ability, you must ***finish a short rest*** before you can use it again. <br>
-Uses: ✦
-
-**<u>Fighter - Second Wind</u>**: You can use a ***bonus action*** to ***regain hitpoints*** equal to 1d10 + your Fighter level. Once you use this ability, you must ***finish a short rest*** before you can use it again <br>
-Uses: ✦
-
-**<u>Fighter - Extra Attack</u>**: You can ***attack twice***, instead of once, when you take the Attack action on your turn. You may use this ability ***once per round***. <br>
-Uses: ✦
-
-**<u>Fighter - Great Weapon Fighting</u>**: When you ***roll a 1 or 2 on damage*** dice for an attack with a melee weapon with the two-handed or versatile property, ***you can reroll the die but must use the new roll***, even if it is a 1 or a 2. <br>
-Uses: **∞**
-
-**<u>Orc - Relentless Endurance</u>**: When you are reduced to 0HP, you can ***drop to 1HP instead***. Once you use this ability, you must ***finish a long rest*** before you can use it again.  <br>
-Uses: ✦
-
-**<u>Orc - Savage Attacks</u>**: When you score a ***critical hit*** with a melee weapon attack, you can roll an ***additional damage die*** and add it to the ***extra damage of the critical hit***.  <br>
-Uses: **∞**
+**<u>Ability</u>**: This is an ability.
 
 ## Equipment
 
@@ -362,3 +350,4 @@ Uses: **∞**
 - —
 
 </div>
+ 

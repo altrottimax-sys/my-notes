@@ -262,6 +262,228 @@ tags:
   color: var(--accent) !important;
 }
 
+/* =====================================================================
+   10-pip prestige tracker
+   position: static !important etc. cancels out Quartz's native task-list
+   checkbox CSS (which otherwise absolutely-positions checkboxes and
+   causes them to stack on top of each other).
+   ===================================================================== */
+.prestige-pip-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  background: var(--table-head) !important;
+  padding: 16px 14px 14px;
+  gap: 16px 8px;
+}
+.prestige-pip-grid + .prestige-pip-grid {
+  border-top: 1px solid var(--border);
+}
+.prestige-pip-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+}
+.ms-page .prestige-pip {
+  position: static !important;
+  margin: 0 !important;
+  left: auto !important;
+  top: auto !important;
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  border: 1.75px solid var(--header-bar-dark);
+  background: rgba(255,255,255,0.5);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.ms-page .prestige-pip:checked {
+  background: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+.prestige-pip-col.current .prestige-pip {
+  box-shadow: 0 0 0 3px var(--header-bar);
+}
+.prestige-pip-col .tier-title {
+  font-family: 'Cinzel', serif;
+  font-size: .64rem;
+  line-height: 1.3;
+  letter-spacing: .4px;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--ink-dim) !important;
+  word-break: break-word;
+  hyphens: auto;
+  max-width: 90px;
+}
+.prestige-pip-col.current .tier-title {
+  color: var(--accent) !important;
+  font-weight: 700;
+}
+.prestige-pip-col .tier-order {
+  font-family: 'Cinzel', serif;
+  font-size: .55rem;
+  color: var(--header-bar-dark) !important;
+  opacity: .7;
+}
+.prestige-progress-label {
+text-align: center; 
+padding: 7px 10px 10px; 
+font-family: 'Cinzel', serif; 
+font-size: .72rem; 
+letter-spacing: 1.5px; 
+text-transform: uppercase; 
+color: var(--header-bar-dark) !important; 
+}
+
+/* =====================================================================
+   Current Tier showcase — the larger benefits block
+   ===================================================================== */
+.prestige-current-card {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: #fbf5e3 !important;
+  overflow: hidden;
+  margin-bottom: 22px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+.prestige-current-card .pc-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  background: linear-gradient(180deg, var(--header-bar), var(--header-bar-dark)) !important;
+  padding: 10px 18px;
+}
+.prestige-current-card .pc-tier {
+  font-family: 'Cinzel', serif;
+  font-size: .68rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #f1e3c0 !important;
+}
+.prestige-current-card .pc-title {
+  font-family: 'Cinzel', 'Georgia', serif;
+  font-size: 1.3rem;
+  letter-spacing: 1px;
+  color: #fbf5e3 !important;
+}
+.prestige-current-card .pc-body {
+  padding: 16px 20px 20px;
+}
+.prestige-current-card .pc-flavor {
+  font-style: italic;
+  color: var(--ink-dim) !important;
+  border-left: 3px solid var(--accent);
+  padding: 4px 14px;
+  margin-bottom: 14px;
+}
+.prestige-current-card .pc-benefits-label {
+  font-family: 'Cinzel', serif;
+  font-size: .72rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--accent) !important;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 3px;
+  margin-bottom: 8px;
+}
+.prestige-current-card .pc-benefit {
+  margin-bottom: 10px;
+}
+.prestige-current-card .pc-benefit .pb-name {
+  font-weight: 700;
+  font-style: italic;
+  color: var(--accent-bright) !important;
+}
+
+/* =====================================================================
+   Full tier ladder — all 10 tiers at a glance, inside a collapsible callout
+   ===================================================================== */
+.tier-ladder-entry {
+  display: flex;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px dotted rgba(184,164,115,0.4);
+}
+.tier-ladder-entry:last-child { border-bottom: none; }
+.tier-ladder-entry .tl-num {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  color: var(--header-bar-dark) !important;
+  width: 26px;
+  flex-shrink: 0;
+  text-align: center;
+}
+.tier-ladder-entry .tl-body .tl-title {
+  font-family: 'Cinzel', 'Georgia', serif;
+  font-size: .92rem;
+  color: var(--accent) !important;
+}
+.tier-ladder-entry .tl-body .tl-desc {
+  font-size: .86rem;
+  color: var(--ink) !important;
+}
+.tier-ladder-entry.reached .tl-num { color: var(--accent) !important; }
+.tier-ladder-entry.current-tier { background: rgba(169,130,76,0.12) !important; border-radius: 3px; padding: 8px 6px; }
+.tier-ladder-entry.locked { opacity: .55; }
+.tier-ladder-entry.locked .tl-title,
+.tier-ladder-entry.locked .tl-desc { color: var(--ink-dim) !important; }
+
+/* ===== Native <details>/<summary> tiers — reused from the Spellbook ===== */
+.detail-tier {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--header-bar-dark);
+  background: #fbf5e3 !important;
+  border-radius: 2px;
+  margin: 14px 0 20px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+.detail-tier summary {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(180deg, var(--table-head), var(--border)) !important;
+  padding: 8px 14px;
+  font-family: 'Cinzel', 'Georgia', serif;
+  font-size: .85rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--ink-dim) !important;
+  cursor: pointer;
+  list-style: none;
+  transition: background .12s ease;
+}
+.detail-tier summary::-webkit-details-marker { display: none; }
+.detail-tier summary::before {
+  content: "▸";
+  color: var(--accent) !important;
+  transition: transform .15s ease;
+  flex-shrink: 0;
+}
+.detail-tier[open] summary::before { transform: rotate(90deg); }
+.detail-tier summary:hover {
+  background: linear-gradient(180deg, var(--border), var(--header-bar)) !important;
+}
+.detail-tier summary .tier-hint {
+  margin-left: auto;
+  font-family: 'Georgia', serif;
+  font-size: .68rem;
+  font-style: italic;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink-dim) !important;
+  opacity: .8;
+  white-space: nowrap;
+}
+.detail-tier:not([open]) summary .tier-hint::after { content: "click to expand"; }
+.detail-tier[open] summary .tier-hint::after { content: "click to collapse"; }
+.detail-tier .tier-content {
+  padding: 14px 16px 4px;
+}
+
 /* ===== Callout boxes (reused base) ===== */
 .ms-page blockquote.callout {
   border: 1px solid var(--border);
@@ -338,6 +560,12 @@ tags:
 @media (max-width: 640px) {
   .quest-meta { grid-template-columns: 1fr; }
 }
+@media (max-width: 700px) {
+  .prestige-pip-row { grid-template-columns: repeat(5, 1fr); row-gap: 14px; }
+}
+@media (max-width: 420px) {
+  .ms-page .prestige-pip { width: 17px; height: 17px; }
+}
 </style>
 
 <div class="ms-page">
@@ -347,7 +575,7 @@ tags:
     <h1>Accursed Blood</h1>
     <div class="qp-sub">X</div>
   </div>
-  <div class="qp-status">In Progress</div> 
+  <div class="qp-status">In Progress</div>
 <!-- qp-status complete | qp-status | qp-status failed -->
 </div>
 
@@ -364,13 +592,193 @@ tags:
 X
 </div>
 
+mmmmmaitri loves fatley 
+
 ## Objectives
 
 <ul class="quest-objectives">
-  <li><input type="checkbox"> X </li>
-
+  <li><input type="checkbox"> X</li>
 
 </ul>
+
+---
+
+## Personal Quest Progress
+
+<div class="ms-notice">
+This personal quest functions as a prestige track tied to [[Character Name]]'s own storyline, separate from class levels. Each of the 10 tiers below grants a new title and set of benefits, which stack with those from earlier tiers unless noted otherwise.
+</div>
+
+<div class="prestige-tracker">
+  <div class="prestige-pip-grid">
+    <div class="prestige-pip-col current">
+      <span class="tier-order">I</span>
+      <input type="checkbox" class="prestige-pip" checked disabled>
+      <span class="tier-title">Oathbound Initiate</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">II</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">Grave-Touched</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">III</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">Hollow Warden</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">IV</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">Consecrated Harrier</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">V</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">Moonshadow Adept</span>
+    </div>
+  </div>
+  <div class="prestige-pip-grid">
+    <div class="prestige-pip-col">
+      <span class="tier-order">VI</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">—</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">VII</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">—</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">VIII</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">—</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">IX</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">—</span>
+    </div>
+    <div class="prestige-pip-col">
+      <span class="tier-order">X</span>
+      <input type="checkbox" class="prestige-pip" disabled>
+      <span class="tier-title">—</span>
+    </div>
+  </div>
+  <div class="prestige-progress-label">Tier 1 of 10 — Oathbound Initiate</div>
+</div>
+
+### Current Tier
+
+<div class="prestige-current-card">
+  <div class="pc-head">
+    <div class="pc-tier">Tier 1 of 10</div>
+    <div class="pc-title">X</div>
+  </div>
+  <div class="pc-body">
+
+  <div class="pc-flavor">A short flavor line describing what reaching this tier means for the character — how the world's perception of them, or their own abilities, have shifted.</div>
+
+  <div class="pc-benefits-label">Benefits</div>
+
+  <div class="pc-benefit">
+    <span class="pb-name">Benefit Name.</span> Description of the first mechanical or narrative benefit granted at this tier.
+  </div>
+
+  <div class="pc-benefit">
+    <span class="pb-name">Benefit Name.</span> Description of a second benefit, if applicable.
+  </div>
+
+  </div>
+</div>
+
+### Full Progression
+
+<details class="detail-tier">
+<summary>Full Progression<span class="tier-hint"></span></summary>
+<div class="tier-content">
+
+<div class="tier-ladder-entry current-tier reached">
+  <div class="tl-num">I</div>
+  <div class="tl-body">
+    <div class="tl-title">Oathbound Initiate</div>
+    <div class="tl-desc">Short summary of this tier's benefits. (Full details above.)</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">II</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">III</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">IV</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">V</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">VI</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">VII</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">VIII</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">IX</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+<div class="tier-ladder-entry locked">
+  <div class="tl-num">X</div>
+  <div class="tl-body">
+    <div class="tl-title">—</div>
+    <div class="tl-desc">Not yet unlocked.</div>
+  </div>
+</div>
+
+</div>
+</details>
 
 ---
 
@@ -381,4 +789,8 @@ X
 
 - —
 
+</div>
+
+<div class="ms-cat-footer">
+Categories: [[Characters]] · [[Quests]] · [[Tyranny of Dragons Campaign]]
 </div>

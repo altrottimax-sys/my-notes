@@ -1,5 +1,5 @@
 ---
-title: Elsaangra Nyssan
+title: Petitearena Genesis
 draft: false
 tags:
   -
@@ -129,7 +129,7 @@ tags:
 
 /* Portrait frame — locks to the infobox's 260px width and a fixed 300px height,
    whatever the source image's native size or aspect ratio */
-.ms-infobox .ib-photo {
+..ms-infobox .ib-photo {
   width: 260px;
   height: 300px;
   overflow: hidden;
@@ -222,66 +222,66 @@ height: 100%;
 <div class="ms-page">
 
 <div class="ms-infobox">
-  <div class="ib-header">Elsaangra Nyssan</div>
+  <div class="ib-header">Petitearena Genesis</div>
   <div class="ib-photo">
-    <img src="Z_Assets/Girlies/CharSheet_E.JPG" alt="Portrait of Elsaangra">
+  <img src="Z_Assets/Girlies/CharSheet_P.JPG"  alt="Portrait of Petitearena">
   </div>
-  <div class="ib-sub">Sehanine's runaway thief</div>
+  <div class="ib-sub">Holder of the Oghma Infinium</div>
   <table>
-    <tr><th>Race</th><td>Moon Elf</td></tr>
-    <tr><th>Class</th><td>Thief Rogue</td></tr>
+    <tr><th>Race</th><td>Asmodeus Tiefling</td></tr>
+    <tr><th>Class</th><td>Divination Wizard</td></tr>
     <tr><th>Level</th><td>5</td></tr>
-    <tr><th>Background</th><td>Moon Acolyte</td></tr>
+    <tr><th>Background</th><td>Student Sage</td></tr>
     <tr><th>Proficiency Level</th><td>+3</td></tr>
-    <tr><th>Passive Insight</th><td>12</td></tr>
-    <tr><th>Passive Perception</th><td>12</td></tr>
-    <tr><th>Armour Class</th><td>16</td></tr>
-    <tr><th>Hit Points</th><td>37</td></tr>
+    <tr><th>Passive Insight</th><td>13</td></tr>
+    <tr><th>Passive Perception</th><td>10</td></tr>
+    <tr><th>Armour Class</th><td>12</td></tr>
+    <tr><th>Hit Points</th><td>33</td></tr>
   </table>
 </div>
 
 <div class="ms-notice">
-This page documents Elsaangra's Journey. Some details may change as the story of her lunar devotion unfolds.
+This page documents Petitearena's Journey. Some details may change as the story of the Oghma Infinium unfolds.
 </div>
 
 ## Character Overview
 
-*A brief description of the character — appearance, bearing, and how they came to be.*
+*A brief description of the character — appearance, bearing, and how they came to be.* 
 
-<a href="/1.0. The Party/Girlys Backstories/Elsaangra's Backstory">More details of her background and evolving story can be found here → </a>
+<a href="/1.0. The Party/Girlys Backstories/Petitearena's Backstory">More details of her background and evolving story can be found here → </a>
 
 ---
 ## Character Statistics
 > [!note]- Attributes & Saving Throws
 > | Attribute | Score | Modifier | Save Proficient | Save Modifier |
 > |---|:---:|:---:|:---:|:---:|
-> | Strength | 9 | -1 | ○ | -1 |
-> | Dexterity | 17 | +3 | ✦ | +6 |
+> | Strength | 10 | +0 | ○ | +0 |
+> | Dexterity | 14 | +2 | ○ | +2 |
 > | Constitution | 12 | +1 | ○ | +1 |
-> | Intelligence | 14 | +2 | ✦ | +5 |
-> | Wisdom | 9 | -1 | ○ | -1 |
+> | Intelligence | 16 | +3 | ✦ | +6 |
+> | Wisdom | 10 | +0 | ✦ | +3 |
 > | Charisma | 15 | +2 | ○ | +2 |
 
 > [!note]- Skills & Proficiencies
 > | Skill | Attribute | Proficient | Modifier |
 > |---|:---:|:---:|:---:|
-> | Acrobatics | Dex | ○ | +3 |
-> | Animal Handling | Wis | ○ | -1 |
-> | Arcana | Int | ○ | +2 |
-> | Athletics | Str | ✦✦ | +5 |
-> | Deception | Cha | ✦✦ | +8 |
-> | History | Int | ○ | +2 |
-> | Insight | Wis | ✦ | +2 |
+> | Acrobatics | Dex | ○ | +2 |
+> | Animal Handling | Wis | ○ | +0 |
+> | Arcana | Int | ✦ | +6 |
+> | Athletics | Str | ○ | +0 |
+> | Deception | Cha | ○ | +2 |
+> | History | Int | ✦ | +6 |
+> | Insight | Wis | ✦ | +3 |
 > | Intimidation | Cha | ○ | +2 |
-> | Investigation | Int | ○ | +2 |
-> | Medicine | Wis | ○ | -1 |
-> | Nature | Int | ○ | +2 |
-> | Perception | Wis | ✦ | +2 |
-> | Performance | Cha | ✦ | +5 |
-> | Persuasion | Cha | ○ | +2 |
-> | Religion | Int | ○ | +2 |
-> | Sleight of Hand | Dex | ✦ | +6 |
-> | Stealth | Dex | ○ | +0 |
+> | Investigation | Int | ○ | +3 |
+> | Medicine | Wis | ○ | +0 |
+> | Nature | Int | ○ | +3 |
+> | Perception | Wis | ○ | +0 |
+> | Performance | Cha | ○ | +2 |
+> | Persuasion | Cha | ✦ | +5 |
+> | Religion | Int | ○ | +3 |
+> | Sleight of Hand | Dex | ○ | +2 |
+> | Stealth | Dex | ○ | +2 |
 > | Survival | Wis | ○ | +0 |
 
 > [!note]- Features & Class Traits
@@ -292,28 +292,28 @@ This page documents Elsaangra's Journey. Some details may change as the story of
 > [!note]- Combat Statistics
 > | Stat | Value |
 > |---|:---:|
-> | Initiative | +3 |
+> | Initiative | +2 |
 > | Speed | 6sq (9m) |
-> | Armour Class | 16 |
-> | Hit Point Maximum | 37 |
-> | Temporary Hit Points | — |
-> | Hit Dice | 5d8 |
+> | Armour Class | 12 |
+> | Hit Point Maximum | 33 |
+> | Temporary Hit Points | 10 |
+> | Hit Dice | 5d6 |
 > | Proficiency Bonus | +3 |
 
 > [!note]- Attacks
-> | Name | Attack Bonus | Damage / Type | Range |
-> |---|:---:|---|:---:|
-> | | | | |
-> | | | | |
+> | Name | Attack Bonus | Damage / Type | Notes |
+> |---|:---:|:---:|---|
+> | 2x Daggers | +6 | 1d4+Dex Sla |  |
+> | Longbow+1 | +9 | 1d8+Dex+1 | 30sq range |
 > | | | | |
 
 > [!note]- Spell Slots 
-> | Rank | Slot Total | Known Spells | 
+> | Rank | Slots | <a href="/0.1. DM Screen/!House Rules/Girlies Spellbooks/Spellbook_P">Known Spells</a> | 
 >  |---|:---:|:---:| 
->  | Cantrips (Rank 0) | ∞✦ | |
->  | 1st | ○○○○ | |
-> | 2nd | ○○○ | |
-> | 3rd | ○○○ | |
+>  | Cantrips (Rank 0) | ∞✦ | Chill Touch ~ Mage Hand ~ Shocking Grasp ~ Thunderclap |
+>  | 1st | ✦✦✦✦ | Burning Hands ~ Charm Person ~ Comprehend Language ~ Detect Magic ~ Identify ~ Mage Armour ~ Magic Missile ~ Shield ~ Sleep |
+> | 2nd | ✦✦✦ | Blur ~ Hold Person ~ Magic Weapon ~ Spider Climb |
+> | 3rd | ✦✦○ | Fireball ~ Lightning Bolt ~ Slow ~ Tiny Servant |
 > | 4th | ○○○ | |
 > | 5th | ○○○ | |
 > | 6th | ○○ | |
@@ -349,4 +349,3 @@ This page documents Elsaangra's Journey. Some details may change as the story of
 - —
 
 </div>
- 
