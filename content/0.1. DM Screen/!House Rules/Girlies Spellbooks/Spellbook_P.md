@@ -518,7 +518,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 > | <input type="checkbox" class="prep-check" checked> | Shocking Grasp | Evocation | 1 action | Touch |
 > | <input type="checkbox" class="prep-check" checked> | Thunderclap | Evocation | 1 action | 20sq |
 
-> [!note]- 1st Level
+> [!note]- 1st Rank
 > | Prepared | Spell | School | Casting Time | Range |
 > |:---:|---|---|:---:|:---:|
 > | <input type="checkbox" class="prep-check" checked> | Burning Hands | Evocation | 1 action | Self (3-sq cone) |
@@ -531,7 +531,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 > | <input type="checkbox" class="prep-check"> | Shield | Abjuration | 1 reaction | Self |
 > | <input type="checkbox" class="prep-check" checked> | Sleep | Enchantment | 1 action | 18sq |
 
-> [!note]- 2nd Level
+> [!note]- 2nd Rank
 > | Prepared | Spell | School | Casting Time | Range |
 > |:---:|---|---|:---:|:---:|
 > | <input type="checkbox" class="prep-check"> | Blur | Illusion | 1 action | Self |
@@ -539,7 +539,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 > | <input type="checkbox" class="prep-check" checked> | Magic Weapon | Transmutation | 1 bonus action | Touch |
 > | <input type="checkbox" class="prep-check"> | Spider Climb | Transmutation | 1 action | Touch |
 
-> [!note]- 3rd Level
+> [!note]- 3rd Rank
 > | Prepared | Spell | School | Casting Time | Range |
 > |:---:|---|---|:---:|:---:|
 > | <input type="checkbox" class="prep-check" checked> | Fireball | Evocation | 1 action | 30sq |
@@ -643,13 +643,13 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 </details>
 
 <details class="detail-tier">
-<summary>1st Level<span class="tier-hint"></span></summary>
+<summary>1st Rank<span class="tier-hint"></span></summary>
 <div class="tier-content">
 
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Burning Hands</div>
-    <div class="sc-tag">1st-Level Evocation</div>
+    <div class="sc-tag">1st-Rank Evocation</div>
   </div>
   <div class="sc-body">
 
@@ -662,7 +662,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">A thin sheet of flame shoots forth from your outstretched fingertips. Each creature in a 3-square cone must make a Dexterity saving throw, taking 3d6 fire damage on a failed save, or half as much on a success. The fire ignites any flammable objects in the area not being worn or carried.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot above 1st, the damage increases by 1d6 for each additional slot level.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot above 1st, the damage increases by 1d6 for each additional slot rank.</div>
 
   </div>
 </div>
@@ -670,7 +670,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Charm Person</div>
-    <div class="sc-tag">1st-Level Enchantment</div>
+    <div class="sc-tag">1st-Rank Enchantment</div>
   </div>
   <div class="sc-body">
 
@@ -683,7 +683,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. When the spell ends, the creature knows it was charmed.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 1st, you can target one additional creature for each additional slot level, as long as the targets are within 6 squares of each other.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 1st, you can target one additional creature for each additional slot rank, as long as the targets are within 6 squares of each other.</div>
 
   </div>
 </div>
@@ -691,7 +691,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Comprehend Languages</div>
-    <div class="sc-tag">1st-Level Divination (Ritual)</div>
+    <div class="sc-tag">1st-Rank Divination (Ritual)</div>
   </div>
   <div class="sc-body">
 
@@ -710,7 +710,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Detect Magic</div>
-    <div class="sc-tag">1st-Level Divination (Ritual)</div>
+    <div class="sc-tag">1st-Rank Divination (Ritual)</div>
   </div>
   <div class="sc-body">
 
@@ -729,7 +729,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Identify</div>
-    <div class="sc-tag">1st-Level Divination (Ritual)</div>
+    <div class="sc-tag">1st-Rank Divination (Ritual)</div>
   </div>
   <div class="sc-body">
 
@@ -748,7 +748,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Mage Armor</div>
-    <div class="sc-tag">1st-Level Abjuration</div>
+    <div class="sc-tag">1st-Rank Abjuration</div>
   </div>
   <div class="sc-body">
 
@@ -767,7 +767,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Magic Missile (Bang Bang)</div>
-    <div class="sc-tag">1st-Level Evocation</div>
+    <div class="sc-tag">1st-Rank Evocation</div>
   </div>
   <div class="sc-body">
 
@@ -780,7 +780,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4+1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 1st, the spell creates one more dart for each additional slot level.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 1st, the spell creates one more dart for each additional slot rank.</div>
 
   </div>
 </div>
@@ -788,7 +788,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Shield</div>
-    <div class="sc-tag">1st-Level Abjuration</div>
+    <div class="sc-tag">1st-Rank Abjuration</div>
   </div>
   <div class="sc-body">
 
@@ -807,7 +807,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Sleep</div>
-    <div class="sc-tag">1st-Level Enchantment</div>
+    <div class="sc-tag">1st-Rank Enchantment</div>
   </div>
   <div class="sc-body">
 
@@ -820,7 +820,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within a 4-square-radius sphere are affected in ascending order of current hit points, starting with the lowest. Affected creatures fall unconscious until the spell ends, they take damage, or someone uses an action to shake or slap them awake.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 1st, roll an additional 2d8 for each additional slot level.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 1st, roll an additional 2d8 for each additional slot rank.</div>
 
   </div>
 </div>
@@ -829,13 +829,13 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 </details>
 
 <details class="detail-tier">
-<summary>2nd Level<span class="tier-hint"></span></summary>
+<summary>2nd Rank<span class="tier-hint"></span></summary>
 <div class="tier-content">
 
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Blur</div>
-    <div class="sc-tag">2nd-Level Illusion</div>
+    <div class="sc-tag">2nd-Rank Illusion</div>
   </div>
   <div class="sc-body">
 
@@ -854,7 +854,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Hold Person</div>
-    <div class="sc-tag">2nd-Level Enchantment</div>
+    <div class="sc-tag">2nd-Rank Enchantment</div>
   </div>
   <div class="sc-body">
 
@@ -867,7 +867,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">Choose a humanoid you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can repeat the saving throw, ending the effect on itself on a success.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 2nd, you can target one additional humanoid for each additional slot level, as long as the targets are within 6 squares of each other.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 2nd, you can target one additional humanoid for each additional slot rank, as long as the targets are within 6 squares of each other.</div>
   
   </div>
 </div>
@@ -875,7 +875,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Magic Weapon</div>
-    <div class="sc-tag">2nd-Level Transmutation</div>
+    <div class="sc-tag">2nd-Rank Transmutation</div>
   </div>
   <div class="sc-body">
 
@@ -888,7 +888,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack and damage rolls.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. Using a spell slot of 6th level or higher, the bonus increases to +3.</div> 
+  <div class="sc-higher">When you cast this spell using a spell slot rank of 4th or higher, the bonus increases to +2. Using a spell slot rank of 6th or higher, the bonus increases to +3.</div> 
 
   </div>
 </div>
@@ -896,7 +896,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Spider Climb</div>
-    <div class="sc-tag">2nd-Level Transmutation</div>
+    <div class="sc-tag">2nd-Rank Transmutation</div>
   </div>
   <div class="sc-body">
 
@@ -916,13 +916,13 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 </details>
 
 <details class="detail-tier">
-<summary>3rd Level<span class="tier-hint"></span></summary>
+<summary>3rd Rank<span class="tier-hint"></span></summary>
 <div class="tier-content">
 
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Fireball</div>
-    <div class="sc-tag">3rd-Level Evocation</div>
+    <div class="sc-tag">3rd-Rank Evocation</div>
   </div>
   <div class="sc-body">
 
@@ -935,7 +935,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">A bright streak flashes to a point you choose within range, then blossoms with a low roar into an explosion of flame. Each creature in a 4 square-radius sphere must make a Dexterity saving throw, taking 8d6 fire damage on a failed save, or half as much on a success. Flammable objects in the area that aren't being worn or carried begin burning.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 3rd, the damage increases by 1d6 for each slot.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 3rd, the damage increases by 1d6 for each slot.</div>
 
   </div>
 </div>
@@ -943,7 +943,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Lightning Bolt</div>
-    <div class="sc-tag">3rd-Level Evocation</div>
+    <div class="sc-tag">3rd-Rank Evocation</div>
   </div>
   <div class="sc-body">
 
@@ -956,7 +956,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">A stroke of lightning forming a line 20 squares long and 1 square wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much on a success. The lightning ignites flammable objects in the area not being worn or carried.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 3rd, the damage increases by 1d6 for each slot.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 3rd, the damage increases by 1d6 for each slot.</div>
 
   </div>
 </div>
@@ -964,7 +964,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Slow</div>
-    <div class="sc-tag">3rd-Level Transmutation</div>
+    <div class="sc-tag">3rd-Rank Transmutation</div>
   </div>
   <div class="sc-body">
 
@@ -983,7 +983,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Tiny Servant</div>
-    <div class="sc-tag">3rd-Level Transmutation</div>
+    <div class="sc-tag">3rd-Rank Transmutation</div>
   </div>
   <div class="sc-body">
 
@@ -996,7 +996,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">You animate up to two tiny, nonmagical objects, transforming each into a tiny servant that obeys your spoken commands. The servant moves as you direct it, can perform simple tasks (fetching, opening unstuck doors, carrying small items), and has statistics matching an ordinary tiny animated object, but can't attack.</div>
 
-  <div class="sc-higher">You can animate one additional object for every 2 spell slot levels above 3rd.</div>
+  <div class="sc-higher">You can animate one additional object for every 2 spell slot ranks above 3rd.</div>
 
   </div>
 </div>

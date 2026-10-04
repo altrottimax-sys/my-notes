@@ -4,5 +4,4 @@ draft: false
 tags:
   -
 ---
- 
-[[Elsaangra3]]
+Elsaangra's mentor who has gone missing.

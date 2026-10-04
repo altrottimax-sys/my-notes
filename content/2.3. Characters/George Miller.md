@@ -7,5 +7,6 @@ tags:
  
 	Personality: Ambitious, Knowledgeable
 
-[[Petitearena3]]
 Disappeared from the University of Silverymoon
+
+found in the dungeon of a dragon cult base

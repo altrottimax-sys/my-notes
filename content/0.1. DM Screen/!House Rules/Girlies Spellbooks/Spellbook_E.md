@@ -518,7 +518,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 > | Moonward Acolyte | Spare the Dying | Necromancy | 1 action | Touch |
 
 
-> [!note]- 1st Level
+> [!note]- 1st Rank
 > | Source | Spell | School | Casting Time | Range |
 > |:---:|---|---|:---:|:---:|
 > | Moonward Acolyte | Bane | Evocation | 1 action | 6sq |
@@ -598,13 +598,13 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 </details>
 
 <details class="detail-tier">
-<summary>1st Level<span class="tier-hint"></span></summary>
+<summary>1st Rank<span class="tier-hint"></span></summary>
 <div class="tier-content">
 
 <div class="spell-card">
   <div class="sc-head">
     <div class="sc-name">Bane</div>
-    <div class="sc-tag">1st-Level Enchantment</div>
+    <div class="sc-tag">1st-Rank Enchantment</div>
   </div>
   <div class="sc-body">
 
@@ -617,7 +617,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
   <div class="sc-desc">Up to three enemies of your choice that you can see within range must make a Charisma saving throw. While under the effects of this spell, any target that  makes an attack roll or a saving throw will receive a -1d4 malus to their end result.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot above 1st, you may target one additional enemy for each additional level.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot above 1st, you may target one additional enemy for each additional rank.</div>
 
   </div>
 </div>

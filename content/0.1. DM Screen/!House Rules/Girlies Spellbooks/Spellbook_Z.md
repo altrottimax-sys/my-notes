@@ -476,7 +476,7 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
     <input type="checkbox" class="prep-check">
     <input type="checkbox" class="prep-check unused" disabled>
   </div>
-  <div class="slot-pip-cell">
+  <div class="slot-pip-cell inactive">
     <input type="checkbox" class="prep-check unused" disabled>
     <input type="checkbox" class="prep-check unused" disabled>
     <input type="checkbox" class="prep-check unused" disabled>
@@ -534,61 +534,61 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Hunter's</div>
+    <div class="sc-name">Hunter's Mark</div>
     <div class="sc-tag">1st-Rank Divination</div>
   </div>
   <div class="sc-body">
 
   <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self (3sq cone)</span></div>
+    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action, Alongside a Weapon Attack</span></div>
+    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">24sq</span></div>
     <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous</span></div>
+    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Instantaneous, 10 Turns</span></div>
   </div>
 
-  <div class="sc-desc">A thin sheet of flame shoots forth from your outstretched fingertips. Each creature in a 3-square cone must make a Dexterity saving throw, taking 3d6 fire damage on a failed save, or half as much on a success. The fire ignites any flammable objects in the area not being worn or carried.</div>
+  <div class="sc-desc">Choose an enemy you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack. If the target drops to 0 hit points before the spell ends, you can use a bonus action on a subsequent turn of yours to mark a new enemy (the duration does not reset). Additionally you have advantage on any Perception or Survival checks you make to track your quarry for up to 2 hours. </div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot above 1st, the damage increases by 1d6 for each additional slot level.</div>
+  <div class="sc-higher">When you cast this spell using a spell rank above 3rd-rank, you can maintain the duration for an additional 5 turns and tracking for 8 hours; when you cast this spell using a spell slot above 5th-rank you can maintain another additional 5 turns and tracking for 24 hours.</div>
 
   </div>
 </div>
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Charm Person</div>
-    <div class="sc-tag">1st-Level Enchantment</div>
+    <div class="sc-name">Cure Wounds</div>
+    <div class="sc-tag">1st-Rank Evocation</div>
   </div>
   <div class="sc-body">
 
   <div class="sc-stats">
     <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">6sq</span></div>
+    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">touch</span></div>
     <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
     <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">1 hour</span></div>
   </div>
 
-  <div class="sc-desc">You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. When the spell ends, the creature knows it was charmed.</div>
+  <div class="sc-desc">A creature you touch regains a number of hitpoints equal to 1d8+Wisdom Mod. This spell has no effect on undead or constructs.</div>
 
-  <div class="sc-higher">When you cast this spell using a spell slot level above 1st, you can target one additional creature for each additional slot level, as long as the targets are within 6 squares of each other.</div>
+  <div class="sc-higher">When you cast this spell using a spell slot rank above 1st, the healing increases by 1d8 for each additional rank.</div>
 
   </div>
 </div>
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Comprehend Languages</div>
-    <div class="sc-tag">1st-Level Divination (Ritual)</div>
+    <div class="sc-name">Speal With Animals</div>
+    <div class="sc-tag">1st-Rank Divination (Ritual)</div>
   </div>
   <div class="sc-body">
 
   <div class="sc-stats">
     <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
     <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">1 hour</span></div>
+    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
+    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">10 minutes</span></div>
   </div>
 
-  <div class="sc-desc">For the duration, you understand the literal meaning of any spoken language you hear, and any written language you see, though you must be touching the surface it's written on. This doesn't decode secret messages, and it doesn't grant a general understanding of context or subtext.</div>
+  <div class="sc-desc">You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they have perceived within the past day. You might be able to persuade a small favour for you at the DM's Discretion.</div>
 
   </div>
 </div>
@@ -596,66 +596,62 @@ Prepared spells are marked below with a filled circle. Spell slot totals and cur
 </details>
 
 <details class="detail-tier">
-<summary>2nd Level<span class="tier-hint"></span></summary>
+<summary>2nd Rank<span class="tier-hint"></span></summary>
 <div class="tier-content">
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Blur</div>
-    <div class="sc-tag">2nd-Level Illusion</div>
+    <div class="sc-name">Silence</div>
+    <div class="sc-tag">2nd-Rank Illusion (Ritual)</div>
+  </div>
+  <div class="sc-body">
+
+  <div class="sc-stats">
+    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
+    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">20sq</span></div>
+    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V</span></div>
+    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 10 minutes</span></div>
+  </div>
+
+  <div class="sc-desc">For the duration, no sound can be created within or pass through a 4-square-radius sphere centred on a point you choose within range. Any creature or enemy entirely inside the sphere is immune to thunder damage, and creatures inside are deafened while entirely inside it. Casting a spell includes a verbal component is impossible inside the sphere.</div>
+
+  </div>
+</div>
+
+<div class="spell-card">
+  <div class="sc-head">
+    <div class="sc-name">Pass Without Trace</div>
+    <div class="sc-tag">2nd-Rank Abjuration</div>
   </div>
   <div class="sc-body">
 
   <div class="sc-stats">
     <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
     <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Self</span></div>
-    <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 1 minute</span></div>
-  </div>
-
-  <div class="sc-desc">Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature attacking you has disadvantage on its attack roll. An attacker is immune if it doesn't rely on sight or can see through illusions.</div>
-
-  </div>
-</div>
-
-<div class="spell-card">
-  <div class="sc-head">
-    <div class="sc-name">Hold Person</div>
-    <div class="sc-tag">2nd-Level Enchantment</div>
-  </div>
-  <div class="sc-body">
-
-  <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
-    <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">12sq</span></div>
     <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S, M</span></div>
-    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 1 minute</span></div>
+    <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 1 hour</span></div>
   </div>
 
-  <div class="sc-desc">Choose a humanoid you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can repeat the saving throw, ending the effect on itself on a success.</div>
-
-  <div class="sc-higher">When you cast this spell using a spell slot level above 2nd, you can target one additional humanoid for each additional slot level, as long as the targets are within 6 squares of each other.</div>
+  <div class="sc-desc">A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 6 squares of you (including you) has a +10 bonus to Stealth checks  and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.</div>
   
   </div>
 </div>
 
 <div class="spell-card">
   <div class="sc-head">
-    <div class="sc-name">Magic Weapon</div>
-    <div class="sc-tag">2nd-Level Transmutation</div>
+    <div class="sc-name">Beast Sense</div>
+    <div class="sc-tag">2nd-Rank Divination</div>
   </div>
   <div class="sc-body">
 
   <div class="sc-stats">
-    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 bonus action</span></div>
+    <div class="stat-box"><span class="stat-label">Casting Time</span><span class="stat-value">1 action</span></div>
     <div class="stat-box"><span class="stat-label">Range</span><span class="stat-value">Touch</span></div>
     <div class="stat-box"><span class="stat-label">Components</span><span class="stat-value">V, S</span></div>
     <div class="stat-box"><span class="stat-label">Duration</span><span class="stat-value">Concentration, up to 1 hour</span></div>
   </div>
 
-  <div class="sc-desc">You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack and damage rolls.</div>
-
-  <div class="sc-higher">When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. Using a spell slot of 6th level or higher, the bonus increases to +3.</div> 
+  <div class="sc-desc">You touch willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.</div>
 
   </div>
 </div>
